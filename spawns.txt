@@ -1,0 +1,3931 @@
+Pallet Town:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea, Shellder, Kingler
+Very Rare(fishing): Gyarados, Slowpoke, Staryu, Psyduck
+Common(surfing): Tentacool
+
+Route 1:
+
+Common: Pidgey, Rattata
+
+Viridian City:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag, Goldeen
+Rare(fishing): Poliwhirl
+Very Rare(fishing): Gyarados, Slowpoke, Psyduck
+Common(surfing): Tentacool
+
+Route 22:
+
+Common: Pidgey, Rattata, Spearow
+Uncommon: Ekans
+Rare: Mankey
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag, Goldeen
+Rare(fishing): Horsea, Poliwhirl
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck
+Common(surfing): Tentacool
+Very Rare(surfing): Psyduck, Slowpoke
+
+Route 2:
+
+Common: Pidgey, Rattata
+Uncommon: Caterpie, Weedle, Bellsprout
+Rare: Weepinbell
+
+Viridian Forest:
+
+Common: Caterpie, Weedle
+Uncommon: Metapod, Kakuna
+Rare: Butterfree, Beedrill
+Very Rare: Pichu
+Extremely Rare: Scyther, Pinsir
+
+Route 3:
+
+Common: Pidgey, Spearow, Nidoran-M Nidoran-F
+Rare: Mankey
+Very Rare: Jigglypuff
+
+Mt Moon Main & Main 2:
+
+Common: Zubat, Geodude
+Uncommon: Paras, Sandshrew
+Very Rare: Clefairy
+Extremely Rare: Onix, Machop
+
+Mt Moon E1, E2, E3 and E4
+
+Common: Paras
+
+Route 4:
+
+Common: Rattata, Spearow
+Uncommon: Sandshrew, Ekans
+Rare: Mankey
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck
+Common(surfing): Tentacool
+
+Cerulean City:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Shellder, Horsea, Kingler
+Very Rare(fishing): Staryu, Gyarados, Slowpoke, Psyduck
+Common(surfing): Tentacool
+
+Route 24 - Route 25:
+
+Common: Caterpie, Weedle, Pidgey
+Uncommon: Oddish, Metapod, Kakuna, Bellsprout
+Very Rare: Abra
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck
+Common(surfing): Tentacool
+
+Route 5:
+
+Common: Pidgey
+Uncommon: Oddish, Bellsprout
+Rare: Meowth
+
+Route 6:
+
+Common: Pidgey
+Uncommon: Oddish, Bellsprout
+Rare: Meowth
+Common(fishing): Magikarp
+Uncommon(fishing): Goldeen, Poliwag
+Rare(fishing): Poliwhirl
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck
+Common(surfing): Tentacool
+Very Rare(surfing): Slowpoke, Psyduck
+
+Vermilion City:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea, Shellder
+Very Rare(fishing): Gyarados, Psyduck, Slowpoke, Staryu
+Common(surfing): Tentacool
+
+Route 11:
+
+Common: Spearow
+Uncommon: Ekans, Sandshrew
+Rare: Drowzee
+Very Rare: Abra
+
+Diglett Cave Entrance, Exit and Diglett Cave:
+
+Common: Diglett
+Uncommon: Dugtrio
+Very Rare: Makuhita
+
+Route 9:
+
+Common: Rattata, Spearow
+Uncommon: Ekans, Sandshrew
+Common(Fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck
+Common(surfing): Tentacool
+
+Route 10:
+
+Common: Spearow
+Uncommon: Ekans, Sandshrew, Voltorb
+Rare: Magnemite
+Very Rare: Pikachu
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck
+Common(surfing): Tentacool
+
+Power Plant:
+
+Common: Voltorb
+Rare: Magnemite
+Very Rare: Pikachu
+Extremely Rare: Electabuzz
+
+Power Plant Basement:
+
+Common: Voltorb
+Uncommon: Emolga
+Rare: Magnemite
+Very Rare: Pikachu
+Extremely Rare: Electabuzz
+Legendary: Zapdos
+
+
+Rock Tunnel F1 and F2:
+
+Common: Zubat, Geodude
+Rare: Mankey, Graveler
+Extremely Rare: Machop, Onix
+
+Pokemon Tower F3, F4, F5 and F7 :
+
+Common: Gastly
+Uncommon: Haunter
+Very Rare: Cubone
+
+Pokemon Tower F6
+
+Common: Gastly
+Uncommon: Haunter
+Very Rare: Cubone, Marowak
+
+Route 7:
+
+Common: Pidgey
+Uncommon: Oddish, Bellsprout
+Rare: Meowth
+Very Rare: Vulpix, Growlithe
+
+Route 8:
+
+Common: Pidgey
+Uncommon: Sandshrew, Ekans
+Rare: Meowth
+Very Rare: Vulpix, Growlithe
+
+Celadon City:
+
+Common(fishing): Magikarp
+Rare(fishing): Grimer
+Common(surfing): Tentacool
+Rare(surfing): Koffing
+Very Rare(surfing): Slowpoke, Psyduck
+
+Rocket Hideout BF1, BF2, BF3 and BF4 :
+
+Common: Zubat, Geodude, Raticate, Ekans
+Rare: Mankey, Magnemite, Grimer, Koffing, Meowth
+Very Rare: Ditto, Wobbuffet, Jigglypuff
+Extremely Rare: Machop, Sneasel
+
+Route 16:
+
+Common: Rattata, Spearow
+Uncommon: Raticate
+Very Rare: Doduo
+Extremely Rare: Snorlax
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea, Kingler
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck, Seadra
+Common(surfing): Tentacool
+
+Route 17- Route 18:
+
+Common: Rattata, Spearow
+Uncommon: Raticate, Fearow
+Very Rare: Doduo
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea, Kingler
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck, Seadra
+Common(surfing): Tentacool
+
+Route 12:
+
+Common: Pidgey
+Uncommon: Oddish, Bellsprout
+Rare: Gloom, Venonat, Weepinbell
+Extremely Rare: Snorlax
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck
+Common(surfing): Tentacool
+
+Route 13:
+
+Common: Pidgey
+Uncommon: Oddish, Bellsprout, Pidgeotto
+Rare: Gloom, Venonat, Weepinbell
+Very Rare: Ditto
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck
+Common(surfing): Tentacool
+
+Route 14:
+
+Common: Pidgey
+Uncommon: Oddish, Bellsprout, Pidgeotto
+Rare: Gloom, Venonat, Weepinbell
+Very Rare: Ditto
+Common(fishing): Magikarp
+Uncommon(fishing):Krabby
+Rare(fishing): Horsea
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Route 15:
+
+Common: Pidgey
+Uncommon: Oddish, Bellsprout, Pidgeotto
+Rare: Gloom, Venonat, Weepinbell
+Very Rare: Ditto
+
+Fuchsia City:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag, Goldeen
+Very Rare(fishing): Gyarados, Slowpoke, Seaking, Psyduck
+Common(surfing): Tentacool
+Very Rare(surfing): Slowpoke, Psyduck
+
+Kanto Safari Zone:
+
+Common: Nidoran-M, Nidoran-F
+Uncommon: Paras
+Rare: Nidorina, Nidorino, Venonat
+Very Rare: Exeggcute. Chansey, Tauros, Doduo, Miltank
+Extremely Rare: Rhyhorn, Scyther, Pinsir, Kangaskhan
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag, Goldeen
+Very Rare(fishing): Psyduck, Slowpoke
+Extremely Rare(fishing): Dratini, Dragonair
+Common(surfing): Tentacool
+Very Rare(surfing): Psyduck, Slowpoke
+
+Route 19:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea, Kingler
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck, Seadra
+Common(surfing): Tentacool
+
+Seafoam Island F1:
+
+Common: Zubat
+Rare: Golbat
+Very Rare: Psyduck, Slowpoke
+Extremely Rare: Swinub
+Legendary: Articuno
+
+Seafoam Island F2 - Seafoam Island F3:
+
+Common: Zubat
+Rare: Golbat
+Very Rare: Psyduck, Slowpoke, Seel, Golduck
+Extremely Rare: Swinub
+Legendary: Articuno
+
+Seafoam Island F4:
+
+Common: Zubat
+Rare: Golbat
+Very Rare: Psyduck, Slowpoke, Seel, Golduck
+Extremely Rare: Swinub
+Legendary: Articuno
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea
+Very Rare(fishing): Gyarados, Psyduck, Slowpoke
+Common(surfing): Tentacool
+Uncommon(surfing): Krabby
+Rare(surfing): Horsea
+Very Rare(surfing): Seel, Psyduck, Slowpoke, Golduck, Dewgong
+
+Route 20:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea, Kingler
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck, Seadra
+Common(surfing): Tentacool
+
+Cinnabar Island:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Shellder, Horsea
+Very Rare(fishing): Gyarados, Slowpoke, Seadra, Staryu, Psyduck
+Common(surfing): Tentacool
+
+Pokemon Mansion F1- Pokemon Mansion F2:
+
+Common: Rattata
+Uncommon: Raticate
+Rare: Grimer, Koffing
+Very Rare: Vulpix, Growlithe
+Extremely Rare: Drapion
+
+Pokemon Mansion F3:
+
+Common: Rattata
+Uncommon: Raticate
+Rare: Grimer, Koffing
+Very Rare: Muk, Vulpix, Growlithe
+Extremely Rare: Drapion
+
+Pokemon Mansion F0:
+
+Common: Rattata
+Uncommon: Raticate
+Rare: Grimer, Koffing
+Very Rare: Ditto, Vulpix, Growlithe
+Extremely Rare: Drapion
+
+One Island:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Treasure Beach:
+
+Common: Spearow
+Uncommon: Meowth
+Rare: Fearow, Persian
+Very Rare: Tangela
+Common(Fishing): Magikarp
+Uncommon(Fishing): Krabby
+Rare(Fishing): Horsea, Shellder, Kingler
+Very Rare(Fishing): Gyarados, Slowpoke, Staryu, Psyduck
+Common(Surfing): Tentacool
+Rare(Surfing): Tentacruel
+
+Hunty's Path:
+
+Common: Rattata, Spearow, Pidgey
+Rare: Jumpluff
+Very Rare: Vulpix, Growlithe
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea
+Very Rare(fishing): Slowpoke, Gyarados Psyduck
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Hellfire Cavern F1:
+
+Common: Slugma
+Very Rare: Vulpix, Growlithe, Magmar
+
+Hellfire Cavern F2:
+
+Common: Slugma
+Very Rare: Vulpix, Growlithe, Magmar
+Extremely Rare: Charmander
+
+Kindle Road:
+
+Common: Spearow, Geodude
+Uncommon: Meowth
+Rare: Fearow, Persian
+Very Rare: Ponyta
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag, Goldeen
+Very Rare(fishing): Gyarados, Slowpoke, Seaking, Psyduck
+Common(surfing): Tentacool
+Very Rare(surfing): Slowpoke, Psyduck
+
+Mt Ember:
+
+Common: Spearow, Geodude
+Uncommon: Fearow
+Very Rare: Ponyta, Magmar
+Extremely Rare: Numel, Machop
+Legendary: Moltres
+
+Two Island:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Cape Brink:
+
+Common: Spearow
+Uncommon: Oddish, Bellsprout, Meowth
+Rare: Weepinbell, Fearow, Persian, Gloom
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea, Shellder, Kingler
+Very Rare(fishing): Gyarados, Slowpoke, Staryu, Psyduck
+Common(surfing): Tentacool
+
+Three Island Port:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Bond Bridge:
+
+Common: Pidgey
+Uncommon: Oddish, Bellsprout, Pidgeotto, Weepinbell, Meowth
+Rare: Gloom, Venonat, Persian
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea, Shellder, Kingler
+Very Rare(fishing): Gyarados, Slowpoke, Staryu, Psyduck
+Common(surfing): Tentacool
+
+Berry Forest:
+
+Common: Pidgey
+Uncommon: Oddish, Bellsprout, Pidgeotto, Weepinbell, Meowth
+Rare: Gloom, Venonat, Persian, Drowzee
+Very Rare: Hypno, Exeggcute, Venomoth
+Extremely Rare: Farfetch'd
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea, Shellder, Kingler
+Very Rare(fishing): Gyarados, Slowpoke, Staryu, Psyduck
+Common(surfing): Tentacool
+
+Distant Isles:
+
+Common: Pidgey
+Uncommon: Oddish, Bellsprout, Pidgeotto, Weepinbell, Meowth
+Rare: Gloom, Venonat, Persian
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby, Goldeen
+Rare(fishing): Horsea, Shellder, Kingler
+Very Rare(fishing): Staryu
+Common Surfing: Tentacool
+
+Turtle Cove:
+
+Common: Geodude, Zubat
+Uncommon: Sandshrew
+Extremely Rare: Squirtle
+Common(fishing): Magikarp
+Uncommon(fishing): Goldeen
+Rare(fishing): Horsea, Shellder
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Squirtle
+Common(surfing): Tentacool
+Extremely Rare(surfing): Squirtle
+
+Four Island:
+
+Common(Fishing): Magikarp
+Uncommon(Fishing):Goldeen, Poliwag
+Rare(Fishing): Horsea
+Very Rare(Fishing): Slowpoke, Gyarados, Psyduck
+Common(Surfing): Tentacool
+Uncommon(Surfing): Marill
+Rare(Surfing): Wooper
+Very Rare(Surfing): Slowpoke
+
+Icefall Cave:
+
+Common: Geodude, Zubat
+Uncommon: Sandshrew, Poliwag
+Rare: Wooper
+Very Rare: Seel, Slowpoke
+Extremely Rare: Onix, Sneasel
+Common(Fishing): Magikarp
+Uncommon(Fishing): Goldeen, Poliwag
+Rare(Fishing): Horsea, Shellder
+Very Rare(Fishing): Staryu
+Common(Surfing): Tentacool
+Uncommon(Surfing): Marill
+Rare(Surfing): Wooper
+Very Rare(Surfing): Seel, Slowpoke
+
+Icefall Cave 1F:
+
+Common: Geodude,Zubat
+Uncommon: Sandshrew, Poliwag
+Rare: Wooper
+Very Rare: Seel, Slowpoke
+Extremely Rare: Onix, Sneasel
+
+Deep Icefall Cave:
+
+Common: Geodude, Zubat
+Uncommon: Sandshrew, Poliwag
+Rare: Wooper
+Very Rare: Seel, Slowpoke
+Extremely Rare: Onix, Swinub
+Common(Fishing): Magikarp
+Uncommon(Fishing): Goldeen, Poliwag
+Rare(Fishing): Horsea, Shellder
+Very Rare(Fishing): Staryu
+Common(Surfing): Tentacool
+Uncommon(Surfing): Marill
+Rare(Surfing): Wooper
+Very Rare(Surfing): Seel, Slowpoke
+
+Five Island:
+
+Common(Fishing): Magikarp
+Uncommon(Fishing): Goldeen, Poliwag
+Rare(Fishing): Horsea
+Very Rare(Fishing): Slowpoke, Gyarados, Psyduck
+Common(Surfing): Tentacool
+Uncommon(Surfing): Marill
+Rare(Surfing): Wooper
+Very Rare(Surfing): Slowpoke
+
+Memorial Pillar:
+
+Common: Pidgeotto, Fearow
+Uncommon: Poliwag
+Rare: Hoppip
+Very Rare: Slowpoke
+Common(fishing): Magikarp
+Uncommon(fishing): Goldeen, Poliwag
+Rare(fishing): Horsea, Qwilfish
+Very Rare(fishing): Slowpoke, Psyduck
+Common(surfing): Tentacool
+Uncommon(surfing): Marill
+Rare(surfing): Hoppip
+Very Rare(surfing): Slowpoke
+
+Water Labyrinth:
+
+Common(Fishing): Gyarados
+Uncommon(Fishing): Goldeen, Poliwag
+Rare(Fishing): Horsea, Qwilfish
+Very Rare(Fishing): Slowpoke, Psyduck
+Extremely Rare(Fishing): Feebas
+Common(Surfing): Tentacruel
+Uncommon(Surfing): Marill
+Rare(Surfing): Hoppip
+Very Rare(Surfing): Slowpoke
+
+Lost Cave:
+
+Common: Zubat, Golbat, Gastly, Haunter
+Uncommon: Sandshrew
+Rare: Misdreavus
+Very Rare: Murkrow
+Extremely Rare: Onix
+
+Six Island:
+
+Common(Fishing): Magikarp
+Uncommon(Fishing): Goldeen, Poliwag
+Rare(Fishing): Horsea
+Very Rare(Fishing): Slowpoke, Gyarados, Psyduck
+Common(Surfing): Tentacool
+Uncommon(Surfing): Marill
+Rare(Surfing): Wooper
+Very Rare(Surfing): Slowpoke
+
+Water Path:
+
+Common: Spearow, Fearow
+Uncommon: Oddish, Bellsprout, Sentret
+Rare: Meowth
+Very Rare: Psyduck, Slowpoke
+Extremely Rare: Kangaskhan
+Common(Fishing): Magikarp
+Uncommon(Fishing): Goldeen, Poliwag
+Rare(Fishing): Horsea, Shellder, Qwilfish
+Very Rare(Fishing): Staryu
+Common(Surfing): Tentacool
+Uncommon(Surfing): Marill
+Rare(Surfing): Wooper
+Very Rare(Surfing): Slowpoke
+
+Pattern Bush:
+
+Common: Caterpie, Metapod, Weedle, Kakuna
+Uncommon: Ledyba, Spinarak
+Rare: Aipom
+Extremely Rare: Heracross
+
+Outcast Island:
+
+Common(Fishing): Magikarp
+Uncommon(Fishing): Goldeen, Poliwag
+Rare(Fishing): Horsea, Shellder
+Very Rare(Fishing): Staryu
+Common(Surfing): Tentacool
+Uncommon(Surfing): Marill
+Rare(Surfing): Wooper
+Very Rare(Surfing): Slowpoke
+
+Outcast Cave:
+
+Common: Graveler, Golbat
+Uncommon: Sandshrew
+Rare: Aipom
+Very Rare: Mareep, Houndour
+Extremely Rare: Onix, Swinub
+Common(Fishing): Gyarados
+Uncommon(Fishing): Goldeen, Poliwag
+Rare(Fishing): Horsea, Shellder
+Very Rare(Fishing): Staryu
+Common(Surfing): Tentacool
+Uncommon(Surfing): Marill
+Rare(Surfing): Wooper
+Very Rare(Surfing): Slowpoke
+
+Ruin Valley:
+
+Common: Spearow, Fearow
+Uncommon: Marill
+Rare: Meowth, Wooper
+Very Rare: Psyduck, Slowpoke, Natu
+Extremely Rare: Kangaskhan
+Common(Fishing): Magikarp
+Uncommon(Fishing): Goldeen, Poliwag
+Rare(Fishing): Horsea, Shellder
+Very Rare(Fishing): Staryu
+Common(Surfing): Tentacool
+Uncommon(Surfing): Marill
+Rare(Surfing): Wooper
+Very Rare(Surfing): Slowpoke
+
+Seven Island:
+
+Common(Fishing):Magikarp
+Uncommon(Fishing): Goldeen, Poliwag
+Rare(Fishing): Horsea
+Very Rare(Fishing): Slowpoke, Gyarados, Psyduck
+Common(Surfing): Tentacool
+Uncommon(Surfing): Marill
+Rare(Surfing): Wooper
+Very Rare(Surfing): Slowpoke
+
+Sevault Canyon:
+
+Common: Fearow, Graveler
+Uncommon: Sentret
+Rare: Meowth
+Very Rare: Psyduck, Cubone, Phanpy
+Extremely Rare: Kangaskhan, Onix
+Common(Fishing): Magikarp
+Uncommon(Fishing): Goldeen, Poliwag
+Rare(Fishing): Horsea, Shellder
+Very Rare(Fishing): Staryu
+Common(Surfing): Tentacool
+Uncommon(Surfing): Marill
+Rare(Surfing): Wooper
+Very Rare(Surfing): Slowpoke
+
+Route 21:
+
+Common: Rattata, Pidgey, Spearow
+Very Rare: Tangela
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Horsea, Kingler
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck, Seadra
+Common(surfing): Tentacool
+
+Route 23:
+
+Common: Spearow
+Uncommon: Ekans, Sandshrew
+Rare: Mankey
+Very Rare: Arbok, Primeape
+Extremely Rare: Kangaskhan
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag, Goldeen
+Rare(fishing): Horsea, Poliwhirl
+Very Rare(fishing): Slowpoke, Gyarados, Psyduck
+Common(surfing): Tentacool
+Very Rare(surfing): Psyduck, Slowpoke
+
+Victory Road F1, F3
+
+Common: Golbat, Graveler
+Uncommon: Sandslash
+Rare: Mightyena
+Very Rare: Arbok, Marowak
+Extremely Rare: Machop, Onix
+
+Victory Road F2
+Common: Golbat, Graveler
+Uncommon: Sandslash
+Rare: Mightyena
+Very Rare: Arbok, Marowak
+Extremely Rare: Machop, Onix
+Common (Fishing): Gyarados
+Uncommon (Fishing): Poliwag, Goldeen
+Rare (Fishing): Horsea, Poliwhirl
+Very Rare (Fishing): Slowpoke
+Common (Surfing): Tentacruel
+Uncommon (Surfing): Marill
+Very Rare (Surfing): Psyduck
+
+Deep Viridian Forest 1:
+
+Common: Caterpie, Weedle
+Uncommon: Metapod, Kakuna
+Rare: Butterfree, Beedrill
+Very Rare: Pikachu
+Extremely Rare: Scyther, Pinsir
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Shellder, Horsea
+Very Rare(fishing): Gyarados, Slowpoke, Seadra, Staryu, Psyduck
+Common(surfing): Tentacool
+
+Deep Viridian Forest 2:
+
+Common: Caterpie, Weedle
+Uncommon: Metapod, Kakuna
+Rare: Butterfree, Beedrill
+Very Rare: Pikachu
+Extremely Rare: Bulbasaur
+Common(fishing): Magikarpp
+Uncommon(fishing): Krabby
+Rare(fishing): Shellder, Horsea
+Very Rare(fishing): Gyarados, Slowpoke, Seadra, Staryu, Psyduck
+Common(surfing): Tentacool
+
+Cerulean Cave F1:
+
+Common: Golbat, Parasect, Electrode
+Rare: Primeape, Magneton
+Very Rare: Ditto
+Extremely Rare: Machoke
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag, Goldeen
+Rare(fishing): Poliwhirl
+Very Rare(fishing): Gyarados, Psyduck
+Common(surfing): Tentacool
+Very Rare(surfing): Slowpoke, Psyduck, Golduck
+
+Cerulean Cave F2:
+
+Common: Golbat, Parasect, Electrode
+Rare: Magneton
+Very Rare: Ditto
+Extremely Rare: Machoke
+
+Cerulean Cave F3:
+
+Common: Golbat, Parasect, Electrode
+Rare: Magneton
+Very Rare: Ditto
+Extremely Rare: Machoke
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag, Goldeen
+Rare(fishing): Poliwhirl
+Very Rare(fishing): Gyarados, Psyduck
+Common(surfing): Tentacool
+Very Rare(surfing): Slowpoke, Psyduck, Golduck
+
+Cerulean Cave F4:
+
+Common: Ekans
+Rare: Dunsparce
+Very Rare: Seviper, Arbok
+Common(fishing): Magikarp
+Extremely Rare(fishing): Milotic
+Common(surfing): Tentacool
+
+Route 26 - Route 27:
+
+Common: Raticate
+Uncommon: Hoothoot
+Rare: Quagsire, Pineco
+Very Rare: Ponyta, Arbok, Doduo
+Common(fishing): Magikarp, Tentacool
+Rare(fishing): Shellder
+Very Rare(fishing): Chinchou
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+New Bark Town:
+
+Common(fishing): Magikarp, Tentacool
+Rare(fishing): Shellder
+Very Rare(fishing): Chinchou
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Route 29:
+
+Common: Raticate, Pidgeot
+Uncommon: Hoothoot, Sentret
+
+Cherrygrove City:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Kingler
+Very Rare(fishing): Staryu, Corsola
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Route 30:
+
+Common: Pidgeot, Butterfree, Beedrill, Raticate
+Uncommon: Metapod, Hoothoot, Ledyba, Spinarak
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag
+Common(surfing): Tentacool
+Uncommon(surfing): Poliwag
+Rare(surfing): Tentacruel, Poliwhirl
+
+Route 31:
+
+Common: Pidgeot, Butterfree, Beedrill, Raticate
+Uncommon: Metapod, Kakuna, Ledyba, Spinarak, Bellsprout
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag
+Common(surfing): Tentacool
+Uncommon(surfing): Poliwag
+Rare(surfing): Tentacruel, Poliwhirl
+
+Violet City:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Kingler
+Very Rare(fishing): Staryu, Corsola
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Sprout Tower F1:
+
+Common: Rattata
+
+Route 32:
+
+Common: Raticate, Golbat
+Uncommon: Ekans, Bellsprout
+Rare: Wooper, Hoppip
+Very Rare: Vulpix, Growlithe, Mareep
+Common(fishing): Tentacool, Magikarp
+Rare(fishing): Qwilfish
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel, Quagsire
+
+Ruins of Alph B1:
+Common: Unown
+
+Union Cave 1F, Union Cave B1 - Union Cave B2:
+
+Common: Rattata, Zubat, Geodude
+Uncommon: Sandshrew
+Extremely Rare: Onix
+Common(fishing): Magikarp
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Seaking
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel, Wooper, Quagsire
+
+Route 33:
+
+Common: Raticate, Fearow, Golbat
+Uncommon: Ekans
+Rare: Hoppip
+Extremely Rare: Heracross
+
+Slowpoke Well:
+
+Common: Graveler, Golbat
+Very Rare: Slowpoke
+Common(fishing): Gyarados
+Uncommon(fishing): Poliwag
+Very Rare(fishing): Slowpoke
+Common(surfing): Tentacruel
+Uncommon(surfing): Poliwag
+Very Rare(surfing): Slowpoke
+
+Ilex Forest:
+
+Common: Metapod, Kakuna, Paras, Butterfree, Beedrill
+Uncommon: Oddish, Hoothoot, Ledyba, Spinarak
+Rare: Pineco
+Extremely Rare: Heracross, Pinsir
+Common(fishing): Gyarados
+Uncommon(fishing): Poliwag
+Common(surfing): Tentacruel
+Rare(surfing): Tentacruel
+Very Rare(surfing): Psyduck
+
+Route 34:
+
+Common: Raticate
+Uncommon: Hoothoot
+Rare: Drowzee
+Very Rare: Abra, Ditto
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Kingler
+Very Rare(fishing): Staryu, Corsola
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Goldenrod City:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Kingler
+Very Rare(fishing): Staryu, Corsola
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Route 35:
+
+Common: Pidgeot, Nidoran-F, Nidoran-M
+Uncommon: Hoothoot
+Rare: Drowzee
+Very Rare: Abra, Ditto, Yanma
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag
+Rare(fishing): Kingler
+Common(surfing): Tentacool
+Very Rare(surfing): Psyduck, Golduck
+
+National Park:
+
+Common: Caterpie, Weedle, Pidgey
+Uncommon: Metapod, Kakuna, Hoothoot
+Rare: Sunkern
+Common(fishing): Magikarp 
+Common(surfing): Tentacool
+
+Route 36:
+
+Common: Pidgeot, Nidoran-M, Nidoran-F
+Uncommon: Hoothoot
+Very Rare: Growlithe, Vulpix
+Extremely Rare: Sudowoodo
+
+Route 37:
+
+Common: Pidgeot
+Uncommon: Hoothoot, Spinarak, Ledyba, Pidgeotto
+Very Rare: Growlithe, Vulpix
+
+Burned Tower Basement:
+
+Common: Raticate, Golbat
+Uncommon: Hoothoot
+Rare: Koffing, Meditite, Chatot
+Very Rare: Magmar
+
+Cinder Cave:
+
+Common: Raticate, Golbat, Graveler
+Uncommon: Sandslash
+Rare: Koffing, Meditite
+Very Rare: Magmar, Growlithe
+Extremely Rare: Numel
+
+Deep Cinder Cave:
+
+Common: Raticate, Golbat, Graveler, Magcargo
+Uncommon: Sandslash
+Rare: Koffing, Meditite
+Very Rare: Magmar, Vulpix
+Extremely Rare: Numel
+
+Route 38 - Route 39:
+
+Common: Raticate
+Uncommon: Meowth
+Rare: Magnemite, Snubbull
+Very Rare: Miltank, Tauros
+
+Olivine City:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Kingler
+Very Rare(fishing): Staryu, Corsola
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Route 40:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Kingler
+Very Rare(fishing): Staryu, Corsola
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Route 41:
+
+Common(fishing): Magikarp, Tentacool
+Rare(fishing): Shellder
+Very Rare(fishing): Chinchou, Mantine
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Whirl Islands 1F:
+
+Common: Golbat, Raticate, Graveler
+Uncommon: Kingler
+Very Rare: Seel
+Extremely Rare: Sneasel
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Chinchou, Mantine
+Extremely Rare(fishing): Milotic
+Common(surfing): Tentacruel
+Uncommon(surfing): Kingler
+Rare(surfing): Horsea
+
+Whirl Islands B1:
+
+Common: Golbat, Raticate, Graveler
+Uncommon: Kingler
+Very Rare: Seel
+Extremely Rare: Sneasel
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Milotic
+Common(surfing): Tentacruel
+Uncommon(surfing): Kingler
+Rare(surfing): Horsea
+
+Whirl Islands B2:
+
+Common: Golbat, Raticate, Graveler
+Uncommon: Kingler
+Very Rare: Seel
+Extremely Rare: Sneasel
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Chinchou
+Extremely Rare(fishing): Milotic
+Common(surfing): Tentacruel
+Uncommon(surfing): Kingler
+Rare(surfing): Horsea
+
+Whirl Islands B3:
+
+Common: Golbat, Raticate, Graveler
+Uncommon: Kingler
+Very Rare: Seel
+Extremely Rare: Swinub
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Mantine
+Extremely Rare(fishing): Milotic
+Common(surfing): Tentacruel
+Uncommon(surfing): Kingler
+Rare(surfing): Horsea
+
+Lost Meadows Path:
+
+Common(fishing): Magikarp, Tentacool
+Rare(fishing): Shellder
+Very Rare(fishing): Chinchou, Mantine
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+
+Lost Meadows (applies to Lost Meadows West and North):
+
+Common: Butterfree
+Uncommon: Marill
+Very Rare: Igglybuff, Cleffa
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Kingler
+Very Rare(fishing): Staryu, Corsola
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Toto Cave:
+
+Common: Butterfree
+Extremely Rare: Totodile
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Kingler
+Very Rare(fishing): Staryu, Corsola
+Extremely Rare(fishing): Totodile
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+Extremely Rare(surfing): Totodile
+
+Lost Meadows (East):
+
+Common: Butterfree
+Uncommon: Marill
+Very Rare: Igglybuff, Cleffa
+
+Lettuce Cave:
+
+Common: Butterfree
+Uncommon: Marill
+Very Rare: Igglybuff, Cleffa
+Extremely Rare: Chikorita
+
+Ember Cave:
+
+Common: Magcargo
+Very Rare: Vulpix, Growlithe, Magmar
+Extremely Rare: Cyndaquil
+
+Cianwood City:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby
+Rare(fishing): Kingler
+Very Rare(fishing): Staryu, Corsola
+Common(surfing): Tentacool
+Rare(surfing): Tentacruel
+
+Route 47:
+
+Common: Fearow, Golbat
+Rare: Mankey
+Very Rare: Mareep, Flaaffy
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Seaking
+Common(surfing): Tentacruel
+Uncommon(surfing): Goldeen
+Very Rare(surfing): Seaking
+
+Route 48:
+
+Common: Fearow
+Rare: Hoppip, Gloom
+Very Rare: Vulpix, Growlithe, Girafarig, Tauros
+
+Johto Safari Zone Wasteland:
+
+Common: Fearow
+Uncommon: Bellsprout
+Rare: Magnemite, Kingler, Meditite, Illumise
+Very Rare: Golduck, Manectric, Breloom, Solrock
+Extremely Rare: Kangaskhan, Skorupi
+
+Johto Safari Zone Savannah:
+
+Common: Nidoran-M, Nidoran-F, Golbat
+Uncommon: Azurill
+Rare: Zigzagoon, Shroomish, Cacnea
+Very Rare: Tauros, Houndour, Torkoal, Luxio
+Extremely Rare: Rhyhorn
+
+Johto Safari Zone Wetland:
+
+Common: Fearow
+Uncommon: Surskit
+Rare: Furret, Wooper, Quagsire, Lombre, Pachirisu
+Very Rare: Psyduck, Doduo, Ditto, Floatzel
+Extremely Rare: Rhyhorn
+Common(fishing): Magikarp
+Rare(fishing): Poliwag, Corphish
+Very Rare(fishing): Psyduck, Poliwhirl, Gyarados
+Extremely Rare(Fishing): Milotic
+Common(surfing): Tentacool
+
+Johto Safari Zone Forest:
+
+Common: Pidgeot
+Uncommon: Bellsprout, Surskit
+Rare: Misdreavus, Bidoof
+Very Rare: Shuppet
+Extremely Rare: Electabuzz
+
+Johto Safari Zone Swamp:
+
+Common: Parasect, Electrode
+Uncommon: Weepinbell
+Rare: Drowzee, Furret, Chimecho, Pachirisu
+Very Rare: Murkrow, Floatzel
+Extremely Rare: Snorlax, Bagon
+Common(fishing): Magikarp
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Seaking
+Common(surfing): Tentacool
+
+Johto Safari Zone Marshland
+
+Common: Arbok, Dugtrio
+Uncommon: Oddish
+Rare: Gloom, Grimer, Koffing, Jumpluff, Wooper, Quagsire, Carnivine
+Very Rare: Banette, Seviper, Croagunk
+Extremely Rare: Skorupi
+Common(fishing): Magikarp
+Rare(fishing): Poliwag, Quagsire
+Very Rare(fishing): Barboach
+Common(surfing): Tentacool
+
+Johto Safari Zone Desert:
+
+Common: Fearow
+Uncommon: Sandshrew
+Rare: Lotad, Spinda, Cacnea, Carnivine
+Very Rare: Cubone, Trapinch
+Extremely Rare: Hippopotas
+
+Johto Safari Zone Plains:
+
+Common: Raticate
+Uncommon: Surskit
+Rare: Smeargle, Zigzagoon, Lotad
+Very Rare: Abra, Girafarig, Ponyta, Houndoom, Zangoose, Manectric, Shinx
+Extremely Rare: Snorlax
+
+Johto Safari Zone Meadow:
+
+Common: Raticate, Golem
+Uncommon: Marill
+Rare: Hoppip, Sunkern, Wooper, Masquerain, Seedot
+Very Rare: Clefairy, Jigglypuff, Chansey, Nosepass
+Extremely Rare: Heracross
+Common(fishing): Magikarp
+Uncommon(fishing): Marill
+Rare(fishing): Poliwag, Wooper
+Very Rare(fishing): Poliwhirl, Gyarados
+Common(surfing): Tentacool
+
+Johto Safari Zone Peak:
+
+Common: Fearow, Paras, Graveler
+Rare: Magnemite, Linoone
+Very Rare: Slowbro, Magmar, Wobbuffet, Lairon, Zangoose
+Extremely Rare: Bronzor
+
+Johto Safari Zone Mountain:
+
+Common: Raticate, Golbat
+Uncommon: Krabby
+Rare: Meditite, Volbeat, Magneton
+Very Rare: Lunatone
+Extremely Rare: Duskull
+
+Johto Safari Zone Rocky Beach:
+
+Common: Golbat
+Uncommon: Krabby
+Very Rare: Doduo, Aron, Mareep, Manectric
+Extremely Rare: Kangaskhan
+Common(fishing): Magikarp
+Uncommon(fishing): Krabby, Goldeen
+Rare(fishing): Poliwag, Corphish
+Very Rare(fishing): Poliwhirl, Slowpoke, Seaking
+Common(surfing): Tentacool
+
+Route 42:
+
+Common: Fearow, Golbat
+Rare: Mankey
+Very Rare: Mareep, Flaaffy
+Common(fishing): Magikarp
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Seaking
+Common(surfing): Tentacool
+Uncommon(surfing): Goldeen
+Very Rare(surfing): Seaking
+
+Route 43:
+
+Common: Pidgeotto
+Rare: Venonat
+Very Rare: Mareep, Flaaffy, Girafarig
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag
+Common(surfing): Tentacool
+
+Lake Of Rage:
+
+Common: Raticate, Butterfree
+Rare: Pineco, Venonat
+Very Rare: Exeggcute
+Common(fishing): Gyarados
+Common(surfing): Tentacruel
+
+Route 44:
+
+Common: Pidgeotto
+Uncommon: Bellsprout, Weepinbell
+Very Rare: Tangela
+Common(fishing): Magikarp
+Rare(fishing): Remoraid
+Common(surfing): Tentacool
+Uncommon(surfing): Poliwag
+
+Ice Path F1, F2, F3, F4:
+
+Common: Golbat
+Uncommon: Sandslash
+Very Rare: Dewgong
+Extremely Rare: Swinub, Sneasel
+
+Blackthorn City:
+
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag
+Common(surfing): Tentacool
+
+Dragons Den:
+
+Common(fishing): Gyarados
+Very Rare(fishing): Seadra
+Extremely Rare(fishing): Dratini
+Common(surfing): Gyarados, Tentacruel
+Very Rare(surfing): Seadra
+
+Mossy Cave:
+
+Common: Parasect, Beautifly, Butterfree, Beedrill
+Uncommon: Weepinbell, Gloom
+Rare: Seedot, Shroomish, Sewaddle, Cottonee, Skiddo
+Very Rare: Exeggcute, Ferroseed, Yanma
+Extremely Rare: Scyther, Klefki, Sandile, Chespin
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Kingler
+Rare(fishing): Stunfisk
+Very Rare(fishing): Wailord, Staryu
+Extremely Rare(fishing): Dratini, Milotic
+Common(surfing): Gyarados, Tentacruel
+Uncommon(surfing): Kingler
+Very Rare(surfing): Wailord, Slowbro, Staryu
+Extremely Rare(surfing): Milotic
+
+Mossy Cave Fire Cavern:
+
+Common: Magcargo, Electrode, Golem, Exploud
+Rare: Drifloon
+Very Rare: Vulpix, Growlithe, Magmar
+Extremely Rare: Numel, Fletchling, Fennekin
+Legendary: Entei
+
+Mossy Cave Water Cavern:
+
+Common: Gyarados, Golem, Exploud
+Uncommon: Kingler, Ducklett
+Rare: Poliwhirl, Lombre
+Very Rare: Clauncher, Mantyke
+Extremely Rare: Milotic, Spheal, Snover
+Legendary: Suicune
+
+Mossy Cave Thunder Cavern
+
+Common: Electrode, Golem, Exploud
+Rare: Primeape, Magneton
+Very Rare: Pichu, Manectric, Luxio, Mareep
+Extremely Rare: Elekid, Helioptile
+Legendary: Raikou
+
+Route 45:
+
+Common: Geodude, Graveler
+Very Rare: Teddiursa, Phanpy
+Extremely Rare: Gligar, Skarmory
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag
+Common(surfing): Magikarp
+
+Route 46
+
+Common: Raticate, Fearow, Graveler
+
+Dark Cave 1 & 2:
+
+Common: Geodude, Graveler, Zubat, Golbat
+Rare: Dunsparce
+Very Rare: Wobbuffet
+Common(fishing): Magikarp
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Seaking
+Common(surfing): Magikarp
+
+Route 28 & Mt Silver Entrance:
+
+Common: Geodude, Graveler
+Rare: Aipom
+Very Rare: Ponyta, Ursaring, Donphan, Natu, Tangela, Doduo
+Extremely Rare: Sneasel
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag
+Common(surfing): Magikarp
+
+Mt Silver 1F, Mt Silver 2F, Mt Silver 3F and Mt Silver 4F:
+
+Common: Graveler, Golbat
+Very Rare: Ursaring, Donphan
+Extremely Rare: Onix
+Common(fishing): Magikarp
+Uncommon(fishing): Poliwag
+Common(surfing): Magikarp
+
+Mt Silver Outside 1:
+
+Common: Graveler, Golbat
+Very Rare: Ursaring, Donphan
+Extremely Rare: Onix
+
+Mt Silver Outside 2:
+
+Common: Graveler, Golbat
+Very Rare: Ursaring, Donphan
+Extremely Rare: Swinub
+
+Mt Silver Cave:
+
+Common: Graveler, Golbat
+Very Rare: Ursaring, Donphan
+Extremely Rare: Onix
+Legendary: Moltres
+
+Route 101:   
+
+Common: Linoone, Wurmple
+Uncommon: Noctowl, Marill
+Rare: Poochyena, Pineco, Lotad
+Very Rare: Mareep, Tangela, Ferroseed
+Extremely Rare: Scyther, Heracross, Pinsir
+
+Route 102:
+
+Common: Linoone, Beautifly, Dustox
+Uncommon: Surskit
+Rare: Mightyena, Lotad, Seedot
+Very Rare: Mareep, Tangela, Ferroseed
+Extremely Rare: Scyther, Heracross, Pinsir
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Corphish
+Common(surfing): Tentacruel
+Uncommon(surfing): Marill, Surskit
+Rare(surfing): Azumarill, Masquerain
+
+Petalburg City:
+
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Corphish
+Common(surfing): Tentacruel
+Uncommon(surfing): Marill, Surskit
+Rare(surfing): Azumarill, Masquerain
+
+Route 104:
+
+Common: Linoone, Beautifly, Dustox
+Uncommon: Surskit
+Rare: Mightyena, Lotad, Seedot
+Very Rare: Mareep, Tangela, Ferroseed
+Extremely Rare: Scyther, Heracross, Swablu
+Common(fishing): Gyarados
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Pelipper
+
+Petalburg Woods:
+
+Common: Linoone, Beautifly, Dustox, Parasect
+Uncommon: Taillow
+Rare: Poochyena, Shroomish
+Extremely Rare: Scyther, Pinsir
+
+Rusturf Tunnel:
+
+Common: Whismur
+
+Route 105 - Route 106:
+
+Common(fishing): Tentacruel, Gyarados
+Very Rare(fishing): Wailmer
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Kingler
+
+Granite Cave:
+
+Common: Graveler, Golbat
+Very Rare: Abra, Makuhita, Aron, Nosepass
+Extremely Rare: Mawile
+
+Dewford Town:
+
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Corphish
+Common(surfing): Gyarados
+Uncommon(surfing): Marill, Surskit
+Rare(surfing): Azumarill, Masquerain
+
+Route 107 - Route 108:
+
+Common(fishing): Tentacruel, Gyarados
+Very Rare(fishing): Wailmer
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Kingler
+
+Slateport City:
+
+Common(fishing): Tentacruel, Gyarados
+Very Rare(fishing): Wailmer
+Extremely Rare(fishing): Feebas
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Kingler
+Extremely Rare(surfing): Feebas
+
+Route 110:
+
+Common: Linoone
+Uncommon: Oddish, Wingull, Voltorb, Shellos
+Rare: Poochyena, Minun, Plusle, Gulpin, Magnemite, Chatot
+Very Rare: Electrike
+Extremely Rare: Skarmory, Swablu
+Common(fishing): Tentacruel, Gyarados
+Very Rare(fishing): Wailmer
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Kingler
+
+New Mauville:
+
+Common: Electrode
+Uncommon: Emolga
+Rare: Magneton
+Very Rare: Pikachu
+Extremely Rare: Electabuzz
+
+Route 103
+
+Common: Linoone, Beautifly, Dustox
+Uncommon: Surskit
+Rare: Mightyena, Lotad, Seedot
+Very Rare: Mareep, Tangela, Ferroseed
+Extremely Rare: Scyther, Heracross, PInsir
+Common(fishing): Tentacruel, Gyarados
+Very Rare(fishing): Carvanha, Wailmer
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Pelipper
+
+Route 117:
+
+Common: Linoone
+Uncommon: Oddish, Marill, Surskit
+Rare: Poochyena, Seedot, Volbeat, Illumise
+Very Rare: Mareep, Natu
+Extremely Rare: Skarmory, Scyther, Heracross, Pinsir
+Common(fishing): Gyarados
+Uncommon(fishing): Marill, Surskit, Goldeen
+Common(surfing): Gyarados
+Uncommon(surfing): Goldeen
+Rare(surfing): Corphish
+
+Verdanturf Town:
+Common(fishing): Gyarados
+Uncommon(fishing): Marill, Surskit, Goldeen
+Common(surfing): Gyarados
+Uncommon(surfing): Goldeen
+Rare(surfing): Corphish
+
+Route 116:
+
+Common: Exploud, Linoone
+Uncommon: Taillow
+Rare: Poochyena, Nincada, Skitty
+Very Rare: Abra
+Extremely Rare: Kangaskhan, Rhyhorn
+
+Route 115:
+
+Common: Linoone
+Uncommon: Swellow, Pelipper
+Rare: Poochyena, Lotad
+Very Rare: Jigglypuff
+Extremely Rare: Swablu
+Common(fishing): Gyarados
+Very Rare(fishing): Wailmer
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper
+
+Meteor Falls 1F,B1:
+
+Common: Golbat
+Very Rare: Solrock, Lunatone
+Common(fishing): Magikarp
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Barboach
+Common(surfing): Tentacool
+Very Rare(surfing): Solrock, Lunatone
+
+Route 111:
+
+Common: Graveler
+Uncommon: Sandshrew
+Rare: Cacnea
+Very Rare: Trapinch, Baltoy
+Extremely Rare: Hippopotas, Kangaskhan
+Common Fishing: Magikarp
+Very Rare Fishing: Barboach
+Common Surfing: Tentacool
+Uncommon Surfing: Marill, Surskit
+
+Route 112:
+
+Common: Magcargo
+Uncommon: Marill
+Rare: Poochyena
+Very Rare: Cubone, Torkoal, Absol
+Extremely Rare: Machop, Numel
+
+Fiery Path:
+
+Common: Magcargo, Dugtrio
+Uncommon: Sandslash
+Rare: Koffing, Grimer
+Very Rare: Torkoal
+Extremely Rare: Machop, Numel
+
+Jagged Pass:
+
+Common: Magcargo
+Very Rare: Spoink
+Extremely Rare: Machop, Numel
+
+Team Magma Hideout 1F - Team Magma Hideout B1:
+
+Common: Magcargo, Graveler, Raticate, Electrode
+Uncommon: Sandslash
+Rare: Koffing, Grimer
+Very Rare: Torkoal, Ditto
+Extremely Rare: Gligar, Skarmory
+
+Route 113:
+
+Common: Magcargo
+Uncommon: Sandslash
+Rare: Spinda
+Very Rare: Abra, Ditto, Yanma
+Extremely Rare: Skarmory
+
+Route 114:
+
+Common: Linoone
+Uncommon: Masquerain
+Rare: Seedot, Lotad
+Very Rare: Zangoose, Seviper
+Extremely Rare: Swablu
+Common(fishing): Magikarp
+Very Rare(fishing): Barboach
+Common(surfing): Tentacruel
+Uncommon(surfing): Marill, Surskit, Goldeen
+
+Route 118:
+
+Common: Linoone
+Uncommon: Wingull
+Rare: Kecleon
+Very Rare: Electrike
+Extremely Rare: Hippopotas, Tropius
+Common(fishing): Gyarados, Tentacruel
+Very Rare(fishing): Carvanha
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+
+Route 119:
+
+Common: Linoone
+Uncommon: Oddish
+Rare: Kecleon
+Very Rare: Tangela, Ferroseed, Yanma
+Extremely Rare: Tropius
+Common(fishing): Gyarados
+Very Rare(fishing): Carvanha
+Extremely Rare(fishing): Feebas
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+
+Route 120:
+
+Common: Linoone
+Uncommon: Surskit, Oddish, Marill
+Rare: Kecleon, Poochyena
+Very Rare: Mightyena, Absol
+Extremely Rare: Skarmory, Scyther, Hippopotas, Tropius
+Common(fishing): Gyarados
+Very Rare(fishing): Barboach
+Common(surfing): Tentacruel
+Uncommon(surfing): Surskit, Goldeen
+
+Route 121
+
+Common: Linoone
+Uncommon: Oddish, Wingull
+Rare: Kecleon, Poochyena
+Very Rare: Mightyena, Absol
+Extremely Rare: Scyther, Kangaskhan, Tropius
+Common(fishing): Gyarados
+Very Rare(fishing): Wailmer
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper
+
+Route 122:
+
+Common(fishing): Gyarados
+Very Rare(fishing): Wailmer
+Extremely Rare(fishing): Dratini, Milotic
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Pelipper
+
+Mt Pyre Entrance:
+
+Common: Gengar
+Uncommon: Noctowl
+Very Rare: Shuppet
+Extremely Rare: Duskull
+
+Mt Pyre:
+
+Common: Nidoran-M, Nidoran-F
+Uncommon: Pelipper
+Rare: Meditite, Chimecho, Elgyem
+Very Rare: Vulpix, Shuppet
+Extremely Rare: Bronzor
+
+Route 123:
+
+Common: Linoone
+Uncommon: Oddish, Wingull
+Rare: Kecleon, Poochyena
+Very Rare: Mightyena, Shuppet, Absol
+Extremely Rare: Kangaskhan, Swablu
+Common(fishing): Gyarados
+Rare(fishing): Corphish
+Very Rare(fishing): Wailmer
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Pelipper
+
+Hoenn Safari Zone:
+
+Common: Golem, Parasect, Pidgeot, Ekans
+Uncommon: Gloom
+Rare: Shroomish, Meditite
+Very Rare: Timburr, Ferroseed, Drilbur, Starly
+Extremely Rare: Treecko, Torchic, Litwick, Pawniard
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Alomomola
+Very Rare(fishing): Frillish
+Extremely Rare(fishing): Mudkip
+Common(surfing): Tentacruel
+Rare(surfing): Tynamo
+Very Rare(surfing): Psyduck
+Extremely Rare(Surfing): Mudkip
+
+Lilycove City:
+
+Common(fishing): Magikarp
+Very Rare(fishing): Staryu, Wailmer
+Common(surfing): Tentacool
+Uncommon(surfing): Wingull
+Rare(surfing): Pelipper
+
+Route 124:
+
+Common(fishing): Pelipper
+Very Rare(fishing): Wailmer, Clamperl, Chinchou, Relicanth
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Pelipper
+Very Rare(surfing): Clamperl
+
+Route 125:
+
+Common(fishing): Gyarados
+Very Rare(fishing): Wailmer
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper
+Rare(surfing): Tentacruel, Pelipper
+
+Mossdeep City:
+
+Common(fishing): Magikarp
+Very Rare(fishing): Wailmer
+Common(surfing): Tentacool
+Uncommon(surfing): Wingull
+Rare(surfing): Tentacruel, Pelipper
+
+Shoal Cave:
+
+Common: Golbat, Golem
+Uncommon: Sandslash
+Rare: Mightyena
+Very Rare: Dewgong
+Extremely Rare: Snorunt
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Kingler
+Rare(fishing): Horsea
+Very Rare(fishing): Wailmer
+Extremely Rare(fishing): Spheal
+Common(surfing): Tentacruel, Golbat
+Uncommon(surfing): Pelipper
+Rare(surfing): Horsea
+Very Rare(surfing): Dewgong
+Extremely Rare(surfing): Spheal
+
+Route 126:
+
+Common(fishing): Gyarados
+Very Rare(fishing): Carvanha, Wailmer, Clamperl, Chinchou, Relicanth
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper
+
+Sootopolis City:
+
+Common(fishing): Gyarados
+Extremely Rare(fishing): Dratini, Milotic
+Common(surfing): Gyarados
+
+Cave of Origin:
+
+Common: Golbat
+Uncommon: Sandslash
+Rare: Shroomish
+Very Rare: Aggron
+Extremely Rare: Mawile
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Horsea, Shellder
+Very Rare(fishing): Sharpedo
+Extremely Rare(fishing): Dragonite
+Common(surfing): Tentacruel
+Uncommon(surfing): Kingler
+Rare(surfing): Horsea
+Extremely Rare(surfing): Milotic
+
+
+Route 127:
+
+Common(fishing): Gyarados
+Very Rare(fishing): Carvanha, Wailmer
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Pelipper
+
+Route 128:
+
+Common(fishing): Gyarados
+Very Rare(fishing): Wailmer, Corsola
+Common(surfing): Tentacruel
+Rare(surfing): Pelipper
+
+Sky Pillar:
+
+Common: Golbat
+Uncommon: Ariados
+Rare: Magneton
+Very Rare: Claydol, Banette
+Extremely Rare: Mawile, Altaria
+
+Ever Grande City:
+
+Common(fishing): Magikarp
+Rare(fishing): Luvdisc
+Very Rare(fishing): Wailmer, Corsola
+Common(surfing): Tentacool
+Rare(surfing): Pelipper, Luvdisc
+
+Hoenn Victory Road 1F - Hoenn Victory Road B1:
+
+Common: Golbat, Exploud
+Uncommon: Sandslash
+Rare: Mightyena
+Very Rare: Makuhita, Aron
+Extremely Rare: Mawile
+
+Hoenn Victory Road B2:
+
+Common: Golbat, Exploud
+Uncommon: Sandslash
+Rare: Mightyena
+Very Rare: Aron, Meditite
+Extremely Rare: Mawile
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Barboach
+Common(surfing): Tentacruel
+
+Route 129:
+
+Common(fishing): Luvdisc, Gyarados
+Very Rare(fishing): Carvanha, Wailmer, Clamperl, Chinchou, Relicanth
+Extremely Rare(fishing): Dratini, Feebas
+Common(surfing): Tentacruel
+Rare(surfing): Pelipper
+
+Route 130:
+
+Common(fishing): Gyarados
+Rare(fishing): Horsea
+Very Rare(fishing): Carvanha, Seadra, Wailmer, Clamperl, Chinchou, Relicanth
+Extremely Rare(fishing): Dratini, Feebas
+Common(surfing): Tentacruel
+Rare(surfing): Tentacruel, Pelipper
+
+Pacifidlog Town:
+
+Common(fishing): Gyarados
+Very Rare(fishing): Wailmer, Carvanha
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper
+
+Ancient Cave
+
+Common: Dugtrio, Golem
+Uncommon: Sandslash, Gastrodon
+Rare: Forretress
+Very Rare: Excadrill
+Extremely Rare: Hippopotas
+
+Ancient Cave R1
+
+Common: Nidorina, Dustox, Arbok
+Uncommon: Gloom
+Rare: Weezing
+Very Rare: Torkoal
+Extremely Rare: Amoonguss
+
+Ancient Cave R2
+
+Common: Golbat, Kingler
+Uncommon: Gastrodon
+Rare: Quagsire
+Very Rare: Slowpoke
+Extremely Rare: Bronzong
+Common(Fishing): Tentacruel, Poliwhirl
+Uncommon(Fishing): Pelipper
+Rare(Fishing): Seismitoad
+Very Rare(Fishing): Jellicent
+Extremely Rare(Fishing): Milotic
+Common(Surfing): Gyarados, Seaking
+Uncommon(Surfing): Azumarill
+Rare(Surfing): Corphish
+Very Rare(Surfing): Carvanha
+Extremely Rare(Surfing): Dragonite
+
+Ancient Cave R3
+
+Common: Magcargo, Gengar
+Uncommon: Drifblim
+Rare: Pyroar
+Very Rare: Houndoom, Torkoal
+Extremely Rare: Larvesta
+
+Ancient Cave R4
+
+Common: Beedrill, Golbat, Golem
+Uncommon: Swellow, Sandslash
+Rare: Breloom, Medicham
+Very Rare: Toxicroak, Drilbur
+Extremely Rare: Heracross, Mamoswine
+
+Ancient Cave R5
+
+Common: Butterfree, Nidorino, Exploud
+Uncommon: Weepinbell, Vivillon
+Rare: Lombre, Venomoth
+Very Rare: Yanmega, Exeggcute, Abra
+Extremely Rare: Goomy
+
+Ancient Dungeon
+
+Common: Golbat, Exploud, Golem, Nidorino, Magcargo
+Uncommon: Sandslash
+Rare: Shroomish
+Very Rare: Clefairy, Happiny, Alakazam
+Extremely Rare: Deino
+Legendary: Regigigas
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Wailord, Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Gyarados, Tentacruel
+Uncommon(surfing): Kingler
+Rare(surfing): Horsea
+Very Rare(surfing): Wailord, Slowbro, Staryu
+Extremely Rare(surfing): Milotic
+
+Faraway island:
+
+Common(Fishing): Gyarados
+Uncommon(Fishing): Kingler
+Rare(Fishing): Horsea
+Very Rare(Fishing): Staryu
+Extremely Rare(Fishing): Dratini
+Common(Surfing): Tentacruel
+Uncommon(Surfing): Pelipper
+Rare(Surfing): Luvdisc
+Very Rare(Surfing): Chinchou
+Extremely Rare(Surfing): Milotic
+
+Faraway Island 1:
+
+Common: Unown, Nidorina, Nidorino
+Uncommon: Noctowl, Gloom
+Rare: Drowzee, Elgyem
+Very Rare: Abra
+Extremely Rare: Scyther
+Common(Fishing): Gyarados
+Uncommon(Fishing): Kingler
+Rare(Fishing): Horsea
+Very Rare(Fishing): Staryu
+Extremely Rare(Fishing): Dratini
+Common(Surfing): Tentacruel
+Uncommon(Surfing): Pelipper
+Rare(Surfing): Luvdisc
+Very Rare(Surfing): Chinchou
+Extremely Rare(Surfing): Milotic
+
+Faraway Island 2:
+
+Common: Unown, Nidorina, Nidorino
+Uncommon: Noctowl, Gloom
+Rare: Drowzee, Elgyem
+Very Rare: Abra
+Extremely Rare: Tropius, Foongus
+Common(Fishing): Gyarados
+Uncommon(Fishing): Kingler
+Rare(Fishing): Horsea
+Very Rare(Fishing): Staryu
+Extremely Rare(Fishing): Dratini
+Common(Surfing): Tentacruel
+Uncommon(Surfing): Pelipper
+Rare(Surfing): Luvdisc
+Very Rare(Surfing): Chinchou
+Extremely Rare(Surfing): Milotic
+
+Faraway Island 3:
+
+Common: Unown, Nidorina, Nidorino
+Uncommon: Noctowl, Gloom
+Rare: Drowzee, Elgyem
+Very Rare: Abra
+Extremely Rare: Hippowdon
+
+Faraway Island 4:
+
+Common: Unown, Nidorina, Nidorino
+Uncommon: Noctowl, Gloom
+Rare: Drowzee, Elgyem
+Very Rare: Abra
+Extremely Rare: Skorupi, Snorlax
+Common(Fishing): Gyarados
+Uncommon(Fishing): Kingler
+Rare(Fishing): Horsea
+Very Rare(Fishing): Staryu
+Extremely Rare(Fishing): Dratini
+Common(Surfing): Tentacruel
+Uncommon(Surfing): Pelipper
+Rare(Surfing): Luvdisc
+Very Rare(Surfing): Chinchou
+Extremely Rare(Surfing): Milotic
+
+Faraway Island 5:
+
+Common: Unown, Nidorina, Nidorino
+Uncommon: Noctowl, Gloom
+Rare: Drowzee, Elgyem
+Very Rare: Abra
+Extremely Rare: Scyther
+Common(Fishing): Gyarados
+Uncommon(Fishing): Kingler
+Rare(Fishing): Horsea
+Very Rare(Fishing): Staryu
+Extremely Rare(Fishing): Dratini
+Common(Surfing): Tentacruel
+Uncommon(Surfing): Pelipper
+Rare(Surfing): Luvdisc
+Very Rare(Surfing): Chinchou
+Extremely Rare(Surfing): Milotic
+
+Faraway Island 6:
+
+Common: Unown, Nidorina, Nidorino
+Uncommon: Noctowl, Gloom
+Rare: Drowzee, Elgyem
+Very Rare: Abra
+Extremely Rare: Heracross
+Common(Fishing): Gyarados
+Uncommon(Fishing): Kingler
+Rare(Fishing): Horsea
+Very Rare(Fishing): Staryu
+Extremely Rare(Fishing): Dratini
+Common(Surfing): Tentacruel
+Uncommon(Surfing): Pelipper
+Rare(Surfing): Luvdisc
+Very Rare(Surfing): Chinchou
+Extremely Rare(Surfing): Milotic
+
+Faraway Island 7:
+
+Common: Unown, Nidorina, Nidorino
+Uncommon: Noctowl, Gloom
+Rare: Drowzee, Elgyem
+Very Rare: Abra
+Extremely Rare: Hippowdon
+
+Faraway Island 8:
+
+Common: Unown, Nidorina, Nidorino
+Uncommon: Noctowl, Gloom
+Rare: Drowzee, Elgyem
+Very Rare: Abra
+Extremely Rare: Swablu, Chikorita
+
+Faraway Island 9:
+
+Common: Unown, Nidorina, Nidorino
+Uncommon: Noctowl, Gloom
+Rare: Drowzee, Elgyem
+Very Rare: Abra
+Extremely Rare: Snorlax
+
+Faraway Island 10:
+
+Common: Unown, Nidorina, Nidorino
+Uncommon: Noctowl, Gloom
+Rare: Drowzee, Elgyem
+Very Rare: Abra
+Extremely Rare: Salamence
+Common(Fishing): Gyarados
+Uncommon(Fishing): Kingler
+Rare(Fishing): Horsea
+Very Rare(Fishing): Staryu
+Extremely Rare(Fishing): Dratini
+Common(Surfing): Tentacruel
+Uncommon(Surfing): Pelipper
+Rare(Surfing): Luvdisc
+Very Rare(Surfing): Chinchou
+Extremely Rare(Surfing): Milotic
+
+Faraway Island 11:
+
+Common: Unown, Golbat, Golem
+Uncommon: Sandslash
+Rare: Drowzee, Elgyem
+Very Rare: Abra
+Extremely Rare: Onix
+Common(Fishing): Gyarados
+Uncommon(Fishing): Kingler
+Rare(Fishing): Horsea
+Very Rare(Fishing): Staryu
+Extremely Rare(Fishing): Dratini
+Common(Surfing): Tentacruel
+Uncommon(Surfing): Pelipper
+Rare(Surfing): Luvdisc
+Very Rare(Surfing): Chinchou
+Extremely Rare(Surfing): Milotic
+
+Faraway Island 12:
+
+Common: Unown, Golbat, Golem
+Uncommon: Sandslash
+Rare: Drowzee, Elgyem
+Very Rare: Abra
+Extremely Rare: Steelix
+
+Twinleaf Town:
+
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Very Rare(fishing): Seaking, Psyduck
+Common(surfing): Tentacruel
+Uncommon(surfing): Kingler
+Very Rare(surfing): Psyduck
+
+Route 201:
+
+Common: Nidorina, Nidorino
+Uncommon: Kricketot
+Rare: Bidoof
+Very Rare: Starly, Doduo, Growlithe
+
+Verity Lake:
+
+Common: Nidorina, Nidorino
+Uncommon: Surskit
+Rare: Bidoof
+Very Rare: Starly, Wobbuffet
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Seaking, Psyduck, Wobbuffet
+Extremely Rare(fishing): Dratini, Feebas
+Common(surfing): Tentacruel
+Uncommon(surfing): Kingler
+Very Rare(surfing): Psyduck, Wobbuffet.
+
+Verity Cave:
+
+Common: Golem, Golbat
+Very Rare: Lunatone, Solrock, Wobbuffet
+Extremely Rare: Onix, Machoke, Mawile
+
+Route 219:
+
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Finneon
+Very Rare(fishing): Clamperl
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull, Pelipper
+
+Route 220:
+
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Finneon
+Very Rare(fishing): Chinchou
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull, Pelipper
+
+Route 221:
+
+Common: Nidorina, Nidorino
+Uncommon: Wingull, Shellos, Gastrodon
+Rare: Stunky, Skuntank
+Very Rare: Floatzel, Girafarig
+Extremely Rare: Sudowoodo
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Finneon
+Very Rare(fishing): Clamperl
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull, Pelipper
+
+
+Route 202:
+
+Common: Nidorina, Nidorino, Linoone
+Uncommon: Kricketot, Sentret
+Rare: Bidoof
+Very Rare: Starly, Growlithe, Shinx
+
+Route 203:
+
+Common: Golbat
+Uncommon: Kricketot
+Rare: Bidoof, Pineco, Lotad, Seedot
+Very Rare: Starly, Shinx, Abra, Cubone
+Extremely Rare: Scyther
+
+Oreburgh Gate:
+
+Common: Golbat, Golem
+Very Rare: Psyduck
+Extremely Rare: Onix, Machoke
+
+Deep Oreburgh Mine:
+
+Common: Golbat, Golem
+Extremely Rare: Onix, Mawile
+
+Route 207:
+
+Common: Golbat, Golem, Nidorina, Nidorino
+Uncommon: Kricketot, Kricketune
+Rare: Stunky
+Very Rare: Ponyta, Phanpy, Nosepass, Baltoy
+Extremely Rare: Gligar, Machop, Bronzor
+
+Route 204:
+
+Common: Silcoon, Cascoon, Golbat, Linoone, Butterfree, Beedrill
+Uncommon: Kricketot
+Rare: Bidoof, Sunkern, Pineco, Lotad, Seedot
+Very Rare: Starly, Shinx
+Extremely Rare: Scyther
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Seaking
+Common(surfing): Tentacruel
+Very Rare(surfing): Psyduck
+
+Ravaged Path:
+
+Common: Golbat, Golem
+Very Rare: Psyduck
+Extremely Rare: Onix, Machoke
+
+Route 205:
+
+Common: Butterfree, Beedrill, Nidorina, Nidorino
+Uncommon: Shellos
+Rare: Bidoof, Pachirisu, Hoppip
+Very Rare: Buizel
+Extremely Rare: Elekid
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Finneon, Shellder
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull, Pelipper, Shellos, Gastrodon
+
+Fuego Ironworks:
+
+Common: Butterfree, Beedrill, Nidorina, Nidorino
+Uncommon: Shellos, Wingull, Gastrodon
+Rare: Magnemite, Pachirisu, Hoppip
+Very Rare: Magmar, Floatzel, Shinx, Luxio, Aron
+Extremely Rare: Elekid
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Finneon, Shellder
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull, Pelipper, Shellos, Gastrodon
+
+Fuego Ironworks Factory:
+
+Common: Voltorb, Nidorina, Nidorino
+Rare: Magnemite
+Very Rare: Magmar, Aron
+Extremely Rare: Elekid
+
+Eterna Forest & Deep Eterna Forest:
+
+Common: Gastly, Haunter, Gengar, Silcoon, Cascoon, Beautifly, Dustox, Kakuna, Metapod, Butterfree, Beedrill
+Uncommon: Hoothoot, Kricketot
+Rare: Misdreavus, Bidoof, Seedot, Pineco
+Very Rare: Murkrow
+Extremely Rare: Scyther, Heracross
+
+Old Chateau:
+
+Common: Gastly, Haunter, Gengar
+Uncommon: Hoothoot, Kricketot
+Rare: Misdreavus
+Very Rare: Rotom
+Extremely Rare: Litwick, Spiritomb
+
+Route 211:
+
+Common: Golbat, Golem
+Uncommon: Noctowl
+Rare: Meditite, Bidoof, Chingling
+Very Rare: Teddiursa, Ponyta
+Extremely Rare: Machop, Bronzor, Swablu
+
+Route 206:
+
+Common: Golbat, Golem, Nidorina, Nidorino
+Uncommon: Kricketot
+Very Rare: Ponyta, Phanpy
+Extremely Rare: Gligar, Machop
+
+Wayward Cave & Deep Wayward Cave:
+
+Common: Golbat, Golem
+Uncommon: Sandslash
+Extremely Rare: Bronzor
+
+Mt Coronet South:
+
+Common: Golbat, Golem
+Rare: Meditite, Chingling
+Very Rare: Clefairy, Cleffa, Nosepass
+Extremely Rare: Bronzor, Hippopotas
+Common(fishing): Gyarados
+Very Rare(fishing): Barboach, Whiscash
+Common(surfing): Golbat, Tentacruel
+
+Mt Coronet 2F - Mt Coronet 3F:
+
+Common: Golbat, Golem
+Rare: Meditite, Chingling
+Very Rare: Clefairy, Nosepass, Lunatone, Solrock
+Extremely Rare: Bronzor, Bronzong, Hippopotas
+
+Mt Coronet Summit:
+
+Common: Golbat, Golem, Exploud, Loudred
+Uncommon: Noctowl
+Rare: Meditite, Chingling
+Very Rare: Clefairy, Absol, Nosepass, Lunatone, Solrock
+Extremely Rare: Bronzor, Snover, Abomasnow, Hippopotas
+
+Mt Coronet 4F:
+
+Common: Golbat, Golem
+Rare: Meditite, Chingling
+Very Rare: Clefairy, Nosepass
+Extremely Rare: Bronzor, Hippopotas
+Common(fishing): Gyarados
+Very Rare(fishing): Barboach, Whiscash
+Extremely Rare(fishing): Dratini, Dragonair
+Common(surfing): Golbat, Tentacruel
+
+Mt Coronet 5F, Mt Coronet 6F, Mt Coronet 7F:
+
+Common: Golbat, Golem
+Rare: Meditite, Chingling
+Very Rare: Clefairy, Nosepass
+Extremely Rare: Bronzor, Hippopotas
+
+Mt Coronet Tunnel:
+
+Common: Golbat, Golem
+Rare: Meditite, Chingling
+Very Rare: Clefairy, Nosepass
+Extremely Rare: Bronzor, Hippopotas
+
+Mt Coronet Center:
+
+Common: Golbat, Golem
+Rare: Meditite, Chingling
+Very Rare: Clefairy, Cleffa, Nosepass
+Extremely Rare: Bronzor, Hippopotas
+
+Celestic Town:
+
+Common(fishing): Magikarp, Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Corphish
+Very Rare(fishing): Psyduck, Barboach, Seaking
+Common(surfing): Magikarp, Gyarados
+Very Rare(surfing): Psyduck
+
+Route 210 B:
+
+Common: Golbat, Golem, Nidorina, Nidorino
+Uncommon: Noctowl
+Rare: Meditite, Bibarel, Kecleon
+Very Rare: Psyduck, Zangoose
+Extremely Rare: Swablu, Scyther, Bagon
+Common(fishing): Magikarp, Gyarados
+Very Rare(fishing): Barboach
+Common(surfing): Gyarados, Tentacruel
+Very Rare(surfing): Psyduck
+
+Route 210 A:
+
+Common: Golbat, Golem, Nidorina, Nidorino
+Uncommon: Noctowl, Kricketune
+Rare: Pineco, Seedot, Nuzleaf
+Very Rare: Ponyta, Chansey, Starly, Tauros, Miltank
+Extremely Rare: Bonsly, Scyther
+
+Solaceon Ruins Entrance, B1, B2, B3:
+
+Common: Unown
+
+Route 209:
+
+Common: Golbat, Haunter
+Rare: Bibarel, Snubbull
+Very Rare: Vulpix, Chansey, Starly, Tauros, Miltank
+Extremely Rare: Duskull, Bonsly, Spiritomb
+
+Lost Tower 2F, 3F, 4F, 5F:
+
+Common: Zubat, Golbat, Gastly, Haunter
+Rare: Misdreavus
+Very Rare: Murkrow
+Extremely Rare: Duskull
+
+Route 215:
+
+Common: Golem, Nidorina, Nidorino
+Uncommon: Kricketune, Marill
+Rare: Drowzee, Mightyena
+Very Rare: Ponyta, Abra, Kadabra, Starly, Houndoom
+Extremely Rare: Scyther, Gligar
+
+Route 214:
+
+Common: Golem, Golbat, Nidorina, Nidorino
+Uncommon: Kricketune
+Rare: Mightyena, Stunky
+Very Rare: Ponyta, Girafarig, Houndoom, Spoink, Vulpix
+Extremely Rare: Sudowoodo, Gligar
+Common(fishing): Magikarp, Gyarados
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Seaking
+Common(surfing): Tentacruel, Gyarados
+Very Rare(surfing): Psyduck
+
+Sendoff Spring:
+Common: Golem, Golbat, Nidorina, Nidorino
+Uncommon: Kricketune
+Rare: Mightyena, Stunky, Chimecho
+Very Rare: Ponyta, Girafarig, Houndoom, Spoink, Vulpix
+Extremely Rare: Duskull, Gligar
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Seaking
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel, Gyarados
+Very Rare(surfing): Psyduck
+
+Valor Lake:
+
+Common(fishing): Magikarp, Gyarados
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Seaking
+Common(surfing): Tentacruel, Gyarados
+Very Rare(surfing): Psyduck
+
+Route 213:
+
+Common: Nidorina, Nidorino
+Uncommon: Pelipper, Shellos, Swellow
+Rare: Chatot
+Very Rare: Buizel, Floatzel, Absol
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Remoraid
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini, Dragonair
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Gastrodon
+
+Pastoria City:
+
+Common(fishing): Gyarados
+Rare(fishing): Remoraid
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Gastrodon
+
+Sinnoh Safari Zone Area 1:
+
+Common: Nidorina, Nidorino
+Uncommon: Cherubi, Scatterbug
+Rare: Deerling, Burmy, Carnivine, Shroomish
+Very Rare: Binacle, Ferroseed
+Extremely Rare: Turtwig
+
+Sinnoh Safari Zone Area 2:
+
+Common: Nidorina, Nidorino
+Uncommon: Combee, Scatterbug
+Rare: Karrablast, Deerling, Skiddo
+Very Rare: Maractus, Ferroseed
+Extremely Rare: Chimchar
+Common(fishing): Gyarados, Tentacruel
+Rare(fishing): Qwilfish, Alomomola, Corphish
+Very Rare(fishing): Staryu, Skrelp, Binacle, Inkay
+Extremely Rare(fishing): Totodile
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Gastrodon
+
+Sinnoh Safari Zone Area 3:
+
+Common: Nidorina, Nidorino
+Uncommon: Combee, Scatterbug
+Rare: Shelmet, Deerling, Skiddo
+Very Rare: Trubbish, Ferroseed
+Extremely Rare: Solosis
+Common(fishing): Gyarados, Tentacruel
+Rare(fishing): Qwilfish, Alomomola, Corphish
+Very Rare(fishing):Staryu, Skrelp, Binacle, Inkay
+Extremely Rare(fishing): Piplup
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Gastrodon
+
+Route 212 B:
+
+Common: Arbok, Nidorina, Nidorino
+Uncommon: Kricketune, Shellos
+Rare: Wooper, Bibarel, Muk, Lotad
+Very Rare: Buizel, Toxicroak
+Common(fishing): Gyarados
+Rare(fishing): Remoraid, Wooper
+Very Rare(fishing): Staryu, Barboach
+
+Route 212 A:
+
+Common: Nidorina, Nidorino
+Uncommon: Kricketune, Marill
+Rare: Wooper, Bibarel, Smeargle
+Very Rare: Starly
+Common(fishing): Gyarados
+Rare(fishing): Wooper
+Very Rare(fishing): Psyduck, Seakings
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Goldeen
+Rare(surfing): Wooper
+Very Rare(surfing): Psyduck
+
+Pokemon Mansion Backyard:
+
+Common: Nidorina, Nidorino
+Uncommon: Kricketune, Marill, Meowth, Azurill
+Rare: Plusle, Minun, Castform
+Very Rare: Pichu, Pikachu, Starly, Clefairy, Jigglypuff, Chansey, Ditto, Cleffa, Igglybuff
+Extremely Rare: Bonsly
+
+Route 208:
+
+Common: Golbat, Nidorina, Nidorino
+Uncommon: Kricketune, Combee
+Rare: Meditite, Bidoof, Dunsparce, Smeargle
+Very Rare: Psyduck, Zangoose, Seviper
+Extremely Rare: Machop
+Common(fishing): Gyarados
+Rare(fishing): Remoraid, Wooper
+Very Rare(fishing): Barboach, Seaking
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Gastrodon
+Rare(surfing): Wooper
+Very Rare(surfing): Psyduck
+
+
+Route 218:
+
+Common: Electrode, Nidorina, Nidorino
+Uncommon: Pelipper, Gastrodon
+Rare: Glameow, Chatot
+Very Rare: Floatzel, Ditto
+Common(fishing): Gyarados
+Rare(fishing): Remoraid, Finneon
+Very Rare(fishing): Barboach, Seaking
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Gastrodon
+Rare(surfing): Wooper
+Very Rare(surfing): Psyduck
+
+Canalave City:
+
+Common(fishing): Gyarados
+Rare(fishing): Remoraid
+Very Rare(fishing): Staryu
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Gastrodon
+
+Route 231:
+
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Finneon, Shellder
+Very Rare(fishing): Staryu
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull, Pelipper, Shellos, Gastrodon
+
+Iron Island:
+
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Finneon, Shellder, Qwilfish
+Very Rare(fishing): Staryu
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull, Pelipper, Shellos, Gastrodon
+
+Iron Cave 1, 2, 3:
+
+Common: Golem, Golbat
+Rare: Klink, Magnemite, Forretress
+Very Rare: Aggron
+Extremely Rare: Mawile, Bronzor, Pawniard
+
+Mt Coronet B1F:
+
+Common: Golbat, Golem
+Rare: Meditite, Chingling
+Very Rare: Clefairy, Cleffa, Nosepass
+Extremely Rare: Bronzor, Hippopotas
+Common(fishing): Gyarados
+Very Rare(fishing: Barboach, Whiscash
+Extremely Rare(fishing): Feebas
+Common(surfing): Golbat, Tentacruel
+
+Mt Coronet North:
+
+Common: Golbat, Golem
+Rare: Meditite, Chingling
+Very Rare: Clefairy, Cleffa, Nosepass
+Extremely Rare: Bronzor, Hippopotas
+
+Route 216, Route 217 and Acuity Lakefront:
+
+Common: Golem, Golbat
+Uncommon: Noctowl
+Rare: Meditite
+Very Rare: Ursaring
+Extremely Rare: Sneasel, Snorunt, Snover, Swinub
+
+Acuity Lake:
+
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Psyduck, Seaking
+Extremely Rare(fishing): Swinub
+Common(surfing): Tentacruel
+Very Rare(surfing): Psyduck, Wobbuffet
+Extremely Rare(surfing): Swinub
+
+Snowpoint City:
+
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Swinub
+Common(surfing): Tentacruel
+Very Rare(surfing): Psyduck, Wobbuffet
+
+Snowpoint Temple 5F:
+
+Common: Golem, Golbat
+Uncommon: Noctowl
+Rare: Meditite
+Very Rare: Ursaring
+Extremely Rare: Sneasel
+
+Route 222:
+
+Common: Nidorina, Nidorino
+Uncommon: Pelipper, Gastrodon
+Rare: Magnemite, Glameow, Chatot, Skitty
+Very Rare: Floatzel, Flaaffy
+Extremely Rare: Electabuzz
+Common(fishing): Gyarados
+Rare(fishing): Remoraid
+Very Rare(fishing): Staryu
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Gastrodon
+
+Sunnyshore City:
+
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Very Rare(fishing): Staryu
+Common(surfing): Tentacruel
+Very Rare(surfing): Psyduck, Wobbuffet
+
+Route 223:
+
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Remoraid
+Very Rare(fishing): Staryu, Wailord
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper
+Very Rare(surfing): Psyduck, Wobbuffet
+
+Sinnoh Victory Road 1F - Sinnoh Victory Road 2F:
+
+Common: Golem, Golbat
+Uncommon: Dwebble, Sandslash
+Rare: Medicham, Magneton, Azumarill
+Very Rare: Alakazam, Aggron, Trapinch, Drilbur
+Extremely Rare: Gligar, Golett, Steelix
+
+Sinnoh Victory Road B1:
+
+Common: Golem, Golbat
+Uncommon: Dwebble, Sandslash
+Rare: Medicham, Magneton, Azumarill
+Very Rare: Alakazam, Aggron, Trapinch, Drilbur, Floatzel
+Extremely Rare: Gligar, Golett, Steelix
+Common(fishing): Gyarados
+Uncommon(fishing): Stunfisk
+Rare(fishing): Remoraid
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel, Golbat
+Uncommon(surfing): Kingler
+Rare(surfing): Shellder
+Very Rare(surfing): Floatzel
+Extremely Rare(surfing): Milotic
+
+Deep Sinnoh Victory Road B1:
+
+Common: Golem, Golbat
+Uncommon: Dwebble, Sandslash
+Rare: Medicham, Magneton, Azumarill
+Very Rare: Alakazam, Aggron, Trapinch, Drilbur, Floatzel
+Extremely Rare: Gligar, Golett, Steelix
+
+Deep Sinnoh Victory Road B2:
+
+Common: Golem, Golbat
+Uncommon: Dwebble, Sandslash
+Rare: Medicham, Magneton, Azumarill
+Very Rare: Alakazam, Aggron, Trapinch, Drilbur, Floatzel
+Extremely Rare: Gligar, Golett, Steelix
+Common(fishing): Gyarados
+Uncommon(fishing): Stunfisk
+Rare(fishing): Remoraid
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel, Golbat
+Uncommon(surfing): Kingler
+Rare(surfing): Shellder
+Very Rare(surfing): Floatzel
+Extremely Rare(surfing): Milotic
+
+Deep Sinnoh Victory Road B3:
+
+Common: Golem, Golbat
+Uncommon: Dwebble, Sandslash
+Rare: Medicham, Magneton, Azumarill
+Very Rare: Alakazam, Aggron, Trapinch, Drilbur, Floatzel
+Extremely Rare: Gligar, Golett, Steelix
+
+Route 224:
+
+Common: Nidorina, Nidorino, Beautifly, Dustox
+Uncommon: Pelipper, Gastrodon, Gloom, Weepinbell
+Rare: Magnemite, Glameow, Chatot, Skitty
+Very Rare: Floatzel, Flaaffy, Natu
+Extremely Rare: Electabuzz, Duskull
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Remoraid, Luvdisc
+Very Rare(fishing): Staryu, Wailord
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Luvdisc
+Very Rare(surfing): Psyduck, Wobbuffet
+
+Flower Paradise:
+
+Common: Nidorina, Nidorino, Beautifly, Dustox, Parasect, Butterfree, Beedrill
+Uncommon: Gloom, Weepinbell
+Rare: Glameow, Chatot, Skitty, Seedot, Cacnea, Hoppip
+Very Rare: Floatzel, Flaaffy, Natu, Tangela, Exeggcute, Ferroseed
+Extremely Rare: Bulbasaur, Foongus
+Legendary: Shaymin
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Remoraid, Luvdisc
+Very Rare(fishing): Staryu, Wailord
+Extremely Rare(fishing): Dratini, Milotic
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper, Luvdisc
+Very Rare(surfing): Psyduck, Wobbuffet
+
+Sinnoh Victory Road:
+
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen
+Rare(fishing): Remoraid
+Very Rare(fishing): Staryu, Wailord
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper
+Rare(surfing): Luvdisc
+Very Rare(surfing): Psyduck, Wobbuffet
+
+Sinnoh Underground:
+Common: Golem, Golbat, Dugtrio, Exploud, Electrode
+Uncommon: Sandslash
+Rare: Muk, Koffing, Magnemite
+Very Rare: Aron, Abra, Drilbur
+Extremely Rare: Onix, Bronzor
+
+Sinnoh Underground Top Left
+Common: Golem, Golbat, Dugtrio, Exploud, Electrode
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Abra, Drilbur
+Extremely Rare: Onix, Bronzor
+
+Deep Full Moon Island
+Common: Nidorina, Nidorino, Dustox, Parasect
+Uncommon: Gloom, Weepinbell
+Rare: Espurr, Shroomish
+Very Rare: Abra, Tangela
+Extremely Rare: Scyther, Skarmory
+Legendary: Cresselia
+
+Deep New Moon Island
+Common: Gengar, Dustox, Parasect
+Uncommon: Gloom, Weepinbell
+Rare: Scraggy, Shroomish
+Very Rare: Murkrow, Ferroseed
+Extremely Rare: Sneasel, Pawniard
+Legendary: Darkrai
+
+Fight Area:
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Goldeen
+Rare(fishing): Alomomola, Corphish
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Gyarados, Tentacruel
+Uncommon(surfing): Pelipper
+Rare(surfing): Horsea
+Very Rare(surfing): Psyduck
+Extremely Rare(surfing): Milotic
+
+Sinnoh Underground Top Right
+Common: Golem, Golbat, Dugtrio, Exploud, Electrode
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Aron, Abra, Drilbur
+Extremely Rare: Swinub
+
+Route 225:
+Common: Nidorina, Nidorino, Raticate, Fearow, Golem
+Uncommon: Azurill
+Rare: Skuntank, Primeape
+Very Rare: Ferroseed, Happiny
+Extremely Rare: Salamence
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Goldeen
+Rare(fishing): Alomomola, Corphish
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Gyarados, Tentacruel
+Uncommon(surfing): Pelipper
+Rare(surfing): Horsea
+Very Rare(surfing): Psyduck
+Extremely Rare(surfing): Milotic
+
+Route 226
+Common: Nidorina, Nidorino, Raticate, Fearow, Golem
+Uncommon: Azurill, Pelipper
+Rare: Skuntank, Primeape
+Very Rare: Ferroseed, Happiny
+Extremely Rare: Gligar, Skarmory
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Goldeen
+Rare(fishing): Alomomola, Corphish
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Gyarados, Tentacruel
+Uncommon(surfing): Pelipper
+Rare(surfing): Horsea
+Very Rare(surfing): Dewgong
+Extremely Rare(surfing): Spheal
+
+Route 227
+Common: Nidorina, Nidorino, Golbat, Fearow, Golem
+Uncommon: Azurill
+Rare: Spinda, Weezing
+Very Rare: Magby, Torkoal
+Extremely Rare: Gligar, Skarmory
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Goldeen
+Rare(fishing): Alomomola, Corphish
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Gyarados, Tentacruel
+Uncommon(surfing): Pelipper
+Rare(surfing): Horsea
+Very Rare(surfing): Slowbro
+Extremely Rare(surfing): Milotic
+
+Stark Mountain Entrance
+Common: Magcargo, Golbat, Golem
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Growlithe
+Extremely Rare: Charizard, Lampent
+Legendary: Heatran
+
+Stark Mountain Volcano
+Common: Magcargo, Golbat, Golem
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Growlithe, Torkoal
+Extremely Rare: Hydreigon, Volcarona
+Legendary: Heatran
+
+Stark Mountain Chamber
+Common: Magcargo, Golbat, Golem
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Torkoal
+Extremely Rare: Charizard, Salamence
+Legendary: Heatran
+
+Route 228
+Common: Nidorina, Nidorino, Dugtrio
+Uncommon: Sandslash
+Rare: Cacnea
+Very Rare: Trapinch
+Extremely Rare: Hippowdon
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Goldeen
+Rare(fishing): Alomomola, Corphish
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Gyarados, Tentacruel
+Uncommon(surfing): Poliwag
+Rare(surfing): Horsea
+Very Rare(surfing): Dewgong
+Extremely Rare(surfing): Milotic
+
+Route 229
+Common: Nidorina, Nidorino, Beautifly, Dustox
+Uncommon: Azurill
+Rare: Pineco
+Very Rare: Ferroseed, Happiny
+Extremely Rare: Scyther
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Goldeen
+Rare(fishing): Alomomola, Corphish
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Gyarados, Tentacruel
+Uncommon(surfing): Pelipper
+Rare(surfing): Horsea
+Very Rare(surfing): Psyduck
+Extremely Rare(surfing): Milotic
+
+Resort Area
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Goldeen
+Rare(fishing): Alomomola, Corphish
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Gyarados, Tentacruel
+Uncommon(surfing): Pelipper
+Rare(surfing): Horsea
+Very Rare(surfing): Psyduck
+Extremely Rare(surfing): Milotic
+
+Route 230
+
+Common: Nidorina, Nidorino, Beautifly, Dustox
+Uncommon: Azurill, Pelipper, Gastrodon
+Rare: Jumpluff
+Very Rare: Happiny
+Extremely Rare: Gligar, Skarmory
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Gastrodon
+Rare(fishing): Alomomola, Corphish
+Very Rare(fishing): Corsola
+Extremely Rare(fishing): Dratini
+Common(surfing): Gyarados, Tentacruel
+Uncommon(surfing): Pelipper, Gastrodon
+Rare(surfing): Horsea
+Very Rare(surfing): Dewgong
+Extremely Rare(surfing): Spheal
+
+Unova Route 1:
+
+Common: Patrat. Raticate
+Uncommon: Lillipup
+Rare: Dunsparce
+Very Rare: Jigglypuff
+Extremely Rare: Kangaskhan
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Basculin
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Squirtle
+Common(surfing): Tentacruel
+Uncommon(surfing): Kingler
+Rare(surfing): Basculin
+Very Rare(surfing): Slowpoke
+Extremely Rare(surfing): Feebas
+
+Unova Route 2:
+
+Common: Watchog, Nidorino, Nidorina
+Uncommon: Stoutland, Purrloin
+Rare: Dunsparce, Snubbull
+Very Rare: Jigglypuff
+Extremely Rare: Scyther
+
+Dreamyard:
+
+Common: Watchog, Raticate, Golbat
+Uncommon: Liepard, Ledian, Ariados, Kricketune
+Rare: Venomoth, Munna, Dunsparce
+Very Rare: Jigglypuff
+Extremely Rare: Scyther
+
+Dreamyard Lab:
+
+Common: Watchog, Raticate, Golbat
+Uncommon: Liepard, Ledian, Ariados, Kricketune
+Rare: Munna
+Very Rare: Jigglypuff
+Extremely Rare: Litwick
+
+Unova Route 3:
+
+Common: Watchog, Raticate
+Uncommon: Stoutland, Liepard
+Rare: Pidove, Volbeat, Illumise, Pachirisu
+Very Rare: Yanma, Manectric
+Extremely Rare: Chikorita
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen, Seaking
+Rare(fishing): Basculin
+Very Rare(fishing): Corsola
+Extremely Rare(fishing): Squirtle
+Common(surfing): Tentacruel
+Uncommon(surfing): Kingler
+Rare(surfing): Crawdaunt, Lombre
+Very Rare(surfing): Slowpoke
+Extremely Rare(surfing): Feebas
+
+Wellspring Cave 1F, B1:
+
+Common: Golbat, Golem
+Uncommon: Sandslash
+Rare: Mightyena
+Very Rare: Woobat
+Extremely Rare: Golett, Mawile
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Basculin
+Very Rare(fishing): Corsola
+Extremely Rare(fishing): Squirtle
+Common(surfing): Tentacruel
+Uncommon(surfing): Kingler
+Rare(surfing): Crawdaunt
+Very Rare(surfing): Slowpoke
+Extremely Rare(surfing): Feebas
+
+Outer Pinwheel Forest:
+
+Common: Nidorino, Nidorina
+Uncommon: Noctowl, Gloom
+Rare: Pidove
+Very Rare: Abra, Timburr, Ferroseed
+Extremely Rare: Scyther, Heracross
+
+Pinwheel Forest:
+Common: Butterfree, Beedrill, Nidorino, Nidorina
+Uncommon: Noctowl, Gloom
+Rare: Pidove, Venipede
+Very Rare: Abra
+Extremely Rare: Pinsir, Heracross
+Common(fishing): Gyarados
+Uncommon(fishing): Goldeen, Seaking
+Rare(fishing): Basculin
+Very Rare(fishing): Corsola
+Extremely Rare(fishing): Squirtle
+Common(surfing): Tentacruel
+Uncommon(surfing): Marill
+Rare(surfing): Crawdaunt, Lombre
+Very Rare(surfing): Slowpoke
+Extremely Rare(surfing): Feebas
+
+Rumination Field:
+
+Common: Butterfree, Beedrill, Nidorino, Nidorina
+Uncommon: Noctowl, Gloom
+Rare: Pidove, Venipede
+Very Rare: Abra
+Extremely Rare: Bagon, Foongus, Pinsir
+
+Castelia Sewers:
+
+Common: Raticate, Golbat, Arbok
+Uncommon: Gloom
+Rare: Muk, Weezing
+Very Rare: Trubbish
+Extremely Rare: Skorupi
+Common(fishing): Tentacruel
+Uncommon(fishing): Poliwag
+Rare(fishing): Muk
+Very Rare(fishing): Trubbish
+Extremely Rare(fishing): Squirtle
+Common(surfing): Tentacruel
+Uncommon(surfing): Kingler
+Rare(surfing): Muk, Weezing
+Very Rare(surfing): Trubbish
+Extremely Rare(surfing): Feebas
+
+Relic Passage South, Relic Passage North:
+
+Common: Dugtrio, Golem, Raticate
+Uncommon: Sandslash, Dwebble
+Rare: Cacnea
+Very Rare: Woobat, Drilbur
+Extremely Rare: Hippopotas
+
+Relic Passage Center:
+
+Common: Dugtrio, Golem, Raticate
+Uncommon: Sandslash, Dwebble
+Rare: Cacnea
+Very Rare: Woobat, Drilbur
+Extremely Rare: Hippopotas
+Common(fishing): Gyarados
+Uncommon(fishing): Poliwag
+Rare(fishing): Basculin
+Very Rare(fishing): Relicanth
+Extremely Rare(fishing): Squirtle
+Common(surfing): Tentacruel
+Uncommon(surfing): Marill
+Rare(surfing): Alomomola
+Very Rare(surfing): Slowpoke
+Extremely Rare(surfing): Feebas
+
+Desert Resort:
+
+Common: Dugtrio, Golem
+Uncommon: Sandslash, Dwebble
+Rare: Cacnea
+Very Rare: Maractus, Sigilyph
+Extremely Rare: Hippopotas
+
+Relic Castle 1F, B1 & Deep Relic Castle:
+
+Common: Dugtrio, Golem
+Uncommon: Sandslash, Dwebble
+Rare: Cacnea
+Very Rare: Baltoy, Sigilyph
+Extremely Rare: Sandile
+
+Unova Route 4:
+
+Common: Dugtrio, Golem
+Uncommon: Sandslash
+Rare: Wooper
+Very Rare: Trubbish, Phanpy
+Extremely Rare: Hippopotas
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Basculin, Luvdisc
+Very Rare(fishing): Relicanth, Clamperl
+Extremely Rare(fishing): Squirtle
+Common(surfing): Tentacruel
+Uncommon(surfing): Marill
+Rare(surfing): Alomomola
+Very Rare(surfing): Slowpoke
+Extremely Rare(surfing): Feebas
+
+Unova Route 5:
+
+Common: Watchog, Raticate
+Uncommon: Emolga, Liepard
+Rare: Smeargle
+Very Rare: Trubbish, Gothita
+Extremely Rare: Chikorita
+
+Driftveil Factory:
+
+Common: Voltorb
+Uncommon: Emolga
+Rare: Magnemite
+Very Rare: Pichu
+Extremely Rare: Elekid
+
+Cold Storage:
+
+Common: Watchog, Nidorino, Nidorina
+Uncommon: Stoutland
+Rare: Magnemite
+Very Rare: Jigglypuff, Timburr, Slowpoke
+Extremely Rare: Bronzor
+
+Unova Route 6:
+
+Common: Watchog, Raticate
+Uncommon: Emolga, Azumarill
+Rare: Pidove, Deerling, Dunsparce
+Very Rare: Pikachu
+Extremely Rare: Chikorita, Foongus
+Common(fishing): Gyarados
+Uncommon(fishing): Poliwag
+Rare(fishing): Basculin
+Very Rare(fishing): Relicanth, Clamperl
+Extremely Rare(fishing): Squirtle
+Common(surfing): Tentacruel
+Uncommon(surfing): Marill
+Rare(surfing): Alomomola
+Very Rare(surfing): Slowpoke
+Extremely Rare(surfing): Feebas
+
+Clay Tunnel:
+
+Common: Dugtrio, Golem, Golbat
+Uncommon: Sandslash, Dwebble
+Rare: Meditite
+Very Rare: Woobat, Nosepass, Aron, Drilbur
+Extremely Rare: Steelix
+
+Mistralton Cave:
+
+Common: Golem, Golbat
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Roggenrola, Woobat, Drilbur
+Extremely Rare: Bronzor
+
+Chargestone Cave:
+
+Common: Golem, Golbat, Electrode
+Uncommon: Sandslash
+Rare: Magnemite, Klink, Tynamo
+Very Rare: Roggenrola, Ferroseed, Drilbur, Nosepass
+Extremely Rare: Elekid
+
+Chargestone Cave B1:
+
+Common: Golem, Golbat, Electrode
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Roggenrola, Woobat, Drilbur
+Extremely Rare: Bronzor
+
+Unova Route 7:
+
+Common: Watchog, Raticate
+Uncommon: Emolga, Furret
+Rare: Pidove, Deerling, Dunsparce
+Very Rare: Zangoose, Seviper
+Extremely Rare: Tropius, Foongus
+
+Celestial Tower:
+
+Common: Gengar, Golbat
+Uncommon: Noctowl
+Rare: Elgyem, Drifloon
+Very Rare: Shuppet
+Extremely Rare: Litwick, Duskull
+
+Twist Mountain 3F:
+
+Common: Golem, Golbat, Dugtrio
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Roggenrola, Woobat, Drilbur
+Extremely Rare: Mawile
+
+Twist Mountain 2F:
+
+Common: Golem, Golbat, Dugtrio
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Roggenrola, Woobat, Drilbur
+Extremely Rare: Steelix
+
+Twist Mountain 1F:
+
+Common: Golem, Golbat, Dugtrio
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Roggenrola, Woobat, Drilbur
+Extremely Rare: Onix
+
+Twist Mountain B1:
+
+Common: Golem, Golbat, Dugtrio
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Roggenrola, Woobat, Drilbur
+Extremely Rare: Gligar
+
+Twist Mountain B2:
+
+Common: Golem, Golbat, Dugtrio
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Roggenrola, Woobat, Drilbur
+Extremely Rare: Skarmory
+
+Dragonspiral Tower 1F:
+
+Common: Gengar, Golbat, Golem, Fearow
+Uncommon: Noctowl
+Rare: Elgyem
+Very Rare: Slowbro
+Extremely Rare: Golett, Druddigon
+Common(fishing): Gyarados
+Uncommon(fishing): Poliwag
+Rare(fishing): Basculin
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel
+Uncommon(surfing): Marill
+Rare(surfing): Alomomola
+Very Rare(surfing): Slowbro
+Extremely Rare(surfing): Feebas
+
+Dragonspiral Tower 2F:
+
+Common: Gengar, Golbat, Golem, Fearow
+Uncommon: Noctowl
+Rare: Elgyem
+Very Rare: Houndour
+Extremely Rare: Golett, Druddigon
+
+Unova Route 8:
+
+Common: Gyarados
+Uncommon: Stunfisk
+Rare: Kingler
+Very Rare: Barboach
+
+Moor of Icirrus
+
+Common: Gyarados, Butterfree, Beedrill
+Uncommon: Stunfisk
+Rare: Kingler, Pineco
+Very Rare: Barboach, Croagunk, Ferroseed
+Extremely Rare: Scyther
+
+Unova Route 9:
+
+Common: Watchog, Raticate
+Uncommon: Emolga, Furret
+Rare: Muk, Bouffalant, Gulpin
+Very Rare: Trubbish, Gothita, Houndour
+Extremely Rare: Pawniard
+
+Unova Route 11:
+
+Common: Raticate, Parasect
+Uncommon: Emolga, Azumarill
+Rare: Shroomish
+Very Rare: Zangoose, Seviper, Golduck
+Extremely Rare: Gligar
+Common(fishing): Gyarados
+Uncommon(fishing): Poliwag
+Rare(fishing): Basculin
+Very Rare(fishing): Relicanth
+Extremely Rare(fishing): Squirtle
+Common(surfing): Tentacruel
+Uncommon(surfing): Marill
+Rare(surfing): Alomomola
+Very Rare(surfing): Slowpoke
+Extremely Rare(surfing): Feebas
+
+Unova Route 12:
+
+Common: Beedrill, Butterfree
+Uncommon: Emolga, Azumarill
+Rare: Shroomish, Dunsparce, Sunkern
+Very Rare: Ponyta, Doduo
+Extremely Rare: Pinsir, Heracross
+
+Unova Route 13:
+
+Common: Golbat, Nidorina, Nidorino
+Uncommon: Emolga, Swellow, Pelipper
+Rare: Drifloon
+Very Rare: Tangela, Lunatone, Solrock, Absol
+Extremely Rare: Skorupi
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Corsola
+Extremely Rare(fishing): Squirtle
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Alomomola
+Very Rare(surfing): Staryu
+Extremely Rare(surfing): Spheal
+
+Giant Chasm Entrance:
+
+Common: Golbat, Nidorina, Nidorino
+Uncommon: Emolga, Swellow, Pelipper
+Rare: Drifloon
+Very Rare: Tangela, Lunatone, Solrock, Absol
+Extremely Rare: Skorupi
+
+Deep Giant Chasm:
+Common: Golbat, Golem
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Lunatone, Solrock
+Extremely Rare: Sneasel
+
+Giant Chasm Cave:
+
+Common: Golbat, Golem
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Roggenrola, Drilbur
+Extremely Rare: Swinub, Sneasel
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Alomomola
+Very Rare(surfing): Seel
+Extremely Rare(surfing): Spheal
+
+Giant Chasm:
+
+Common: Golbat, Nidorina, Nidorino
+Uncommon: Swellow
+Rare: Forretress
+Very Rare: Clefairy, Ditto
+Extremely Rare: Swinub
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Corsola
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Alomomola
+Very Rare(surfing): Staryu
+Extremely Rare(surfing): Spheal
+
+Unova Route 14:
+
+Common: Nidorina, Nidorino
+Uncommon: Emolga
+Rare: Jumpluff
+Very Rare: Jigglypuff, Yanma
+Extremely Rare: Heracross, Salamence
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Corsola
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Alomomola
+Very Rare(surfing): Staryu
+Extremely Rare(surfing): Totodile
+
+Abundant Shrine:
+
+Common: Nidorina, Nidorino, Beedrill, Butterfree
+Uncommon: Noctowl
+Rare: Jumpluff
+Very Rare: Vulpix, Murkrow
+Extremely Rare: Bronzor, Foongus, Heracross
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Corsola
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Alomomola
+Very Rare(surfing): Staryu
+Extremely Rare(surfing): Totodile
+
+Unova Route 15:
+
+Common: Fearow, Nidorina, Nidorino, Watchog
+Uncommon: Emolga
+Rare: Mankey
+Very Rare: Jigglypuff, Marowak
+Extremely Rare: Gligar
+
+Unova Route 16:
+
+Common: Fearow, Watchog
+Uncommon: Emolga, Sandslash
+Rare: Mankey
+Very Rare: Jigglypuff, Flaaffy
+Extremely Rare: Snorlax
+
+Lostlorn Forest:
+
+Common: Beedrill, Butterfree
+Uncommon: Emolga
+Rare: Pidove, Venipede, Shroomish
+Very Rare: Zoroark, Tangela, Yanma
+Extremely Rare: Heracross
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Corsola
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Alomomola
+Very Rare(surfing): Staryu
+Extremely Rare(surfing): Totodile
+
+Unova Route 17:
+
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Finneon, Horsea, Qwilfish
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Squirtle
+Common(surfing): Tentacruel
+Uncommon(surfing): Kingler
+Rare(surfing): Alomomola
+Very Rare(surfing): Slowpoke
+Extremely Rare(surfing): Feebas
+
+Unova Route 18:
+
+Common: Patrat, Raticate
+Uncommon: Lillipup, Dwebble
+Rare: Dunsparce, Carnivine, Hoppip
+Very Rare: Exeggcute
+Extremely Rare: Larvesta, Tropius
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Finneon, Horsea
+Very Rare(fishing): Corsola
+Extremely Rare(fishing): Squirtle
+Common(surfing): Tentacruel
+Uncommon(surfing): Kingler
+Rare(surfing): Alomomola
+Very Rare(surfing): Slowpoke
+Extremely Rare(surfing): Feebas
+
+Reversal Mountain 1F, B1:
+
+Common: Golbat, Golem, Magcargo
+Uncommon: Sandslash
+Rare: Drifloon, Weezing
+Very Rare: Growlithe, Torkoal
+Extremely Rare: Volcarona, Charizard
+
+Reversal Mountain:
+
+Common: Golbat, Golem
+Uncommon: Liepard
+Rare: Drifloon, Cacnea
+Very Rare: Spoink, Trapinch
+Extremely Rare: Skarmory, Gligar
+
+Strange House:
+
+Common: Golbat, Raticate, Gengar
+Uncommon: Noctowl
+Rare: Drifloon
+Very Rare: Shuppet, Gothita
+Extremely Rare: Litwick
+
+Undella Bay:
+
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Remoraid
+Very Rare(fishing): Wailmer
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel
+Uncommon(surfing): Pelipper
+Rare(surfing): Alomomola
+Very Rare(surfing): Mantine, Chinchou
+Extremely Rare(surfing): Spheal
+
+Seaside Cave 1F:
+
+Common: Golbat, Golem
+Uncommon: Kingler
+Rare: Shellder
+Very Rare: Staryu
+Extremely Rare: Squirtle
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Corsola
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Alomomola
+Very Rare(surfing): Seel
+Extremely Rare(surfing): Spheal
+
+Seaside Cave B1:
+
+Common: Golbat, Golem
+Uncommon: Sandslash
+Rare: Magnemite
+Very Rare: Nosepass, Drilbur, Corsola
+Extremely Rare: Swinub, Sneasel
+
+Unova Route 21:
+
+Common: Butterfree
+Uncommon: Pelipper, Azumarill
+Rare: Pidove
+Very Rare: Slowbro
+Extremely Rare: Hippopotas
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Remoraid
+Very Rare(fishing): Corsola
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Alomomola
+Very Rare(surfing): Staryu
+Extremely Rare(surfing): Totodile
+
+Unova Route 22:
+
+Common: Fearow, Nidorina, Nidorino, Watchog
+Uncommon: Ledian, Pelipper, Ariados
+Rare: Magneton, Shroomish
+Very Rare: Lunatone, Solrock
+Extremely Rare: Kangaskhan, Tropius
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Remoraid
+Very Rare(fishing): Corsola
+Extremely Rare(fishing): Mudkip
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Alomomola
+Very Rare(surfing): Staryu
+Extremely Rare(surfing): Milotic
+
+Unova Route 23:
+
+Common: Fearow, Nidorina, Nidorino, Watchog, Butterfree, Beedrill
+Uncommon: Ledian, Pelipper, Ariados, Emolga
+Rare: Bouffalant, Magneton, Shroomish
+Very Rare: Absol, Seviper, Zangoose
+Extremely Rare: Gligar, Heracross, Scyther
+Common(fishing): Gyarados
+Uncommon(fishing): Kingler
+Rare(fishing): Remoraid
+Very Rare(fishing): Corsola
+Extremely Rare(fishing): Mudkip
+Common(surfing): Tentacruel
+Uncommon(surfing): Wingull
+Rare(surfing): Alomomola
+Very Rare(surfing): Staryu
+Extremely Rare(surfing): Milotic
+
+Unova Victory Road Ruins:
+
+Common: Gengar, Arbok, Exploud, Electrode, Golem, Fearow, Magcargo, Parasect, Dugtrio
+Uncommon: Sandslash, Azumarill, Noctowl
+Rare: Magneton, Forretress
+Very Rare: Aron, Torkoal
+Extremely Rare: Pawniard, Golett
+
+Unova Victory Road Outside:
+
+Common: Arbok, Exploud, Nidorina, Nidorino
+Uncommon: Azumarill, Pelipper
+Rare: Kecleon, Meditite
+Very Rare: Abra, Clefairy, Chansey, Slowbro
+Extremely Rare: Gligar, Skorupi, Salamence
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel, Gyarados
+Uncommon(surfing): Pelipper
+Rare(surfing): Alomomola
+Very Rare(surfing): Staryu
+Extremely Rare(surfing): Milotic
+
+Unova Victory Road Grove:
+
+Common: Arbok, Exploud, Nidorina, Nidorino
+Uncommon: Azumarill, Pelipper
+Rare: Kecleon, Meditite
+Very Rare: Abra, Clefairy, Chansey, Slowbro
+Extremely Rare: Gligar
+
+Unova Victory Road Cave South:
+
+Common: Gengar, Arbok, Exploud, Electrode, Golem, Fearow, Magcargo, Parasect, Dugtrio
+Uncommon: Sandslash, Azumarill, Noctowl
+Rare: Magneton, Forretress
+Very Rare: Clefairy, Drilbur
+Extremely Rare: Golett, Volcarona
+
+Unova Victory Road Cliffside:
+
+Common: Arbok, Exploud, Nidorina, Nidorino
+Uncommon: Azumarill, Pelipper
+Rare: Kecleon, Meditite
+Very Rare: Abra, Clefairy, Chansey, Slowbro
+Extremely Rare: Gligar, Skorupi, Salamence
+
+Unova Victory Road Cave North:
+
+Common: Gengar, Arbok, Exploud, Electrode, Golem, Fearow, Magcargo, Parasect, Dugtrio
+Uncommon: Sandslash, Azumarill, Noctowl, Pelipper
+Rare: Magneton, Forretress
+Very Rare: Abra, Chansey
+Extremely Rare: Skorupi, Salamence
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel, Gyarados
+Uncommon(surfing): Pelipper
+Rare(surfing): Horsea
+Very Rare(surfing): Staryu
+Extremely Rare(surfing): Milotic
+
+Unova Victory Road Cave North East:
+
+Common: Gengar, Arbok, Exploud, Electrode, Golem, Fearow, Magcargo, Parasect, Dugtrio
+Uncommon: Sandslash, Azumarill, Noctowl
+Rare: Magneton, Forretress
+Very Rare: Aron, Clefairy
+Extremely Rare: Golett, Salamence
+
+N Castle:
+
+Common: Golem, Magcargo
+Uncommon: Sandslash
+Rare: Pyroar, Quagsire
+Very Rare: Houndoom, Torkoal, Vulpix
+Extremely Rare: Typhlosion, Infernape, Delphox
+Legendary: Moltres
+
+N Castle Secret Tunnel 2 & Abyssal Maze/Ruins:
+
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Kingler
+Rare(fishing): Shellder
+Very Rare(fishing): Staryu
+Extremely Rare(fishing): Dratini
+Common(surfing): Tentacruel, Gyarados
+Uncommon(surfing): Pelipper
+Rare(surfing): Horsea
+Very Rare(surfing): Staryu
+Extremely Rare(surfing): Milotic
+
+N Castle Basement:
+
+Common: Pidgeot, Golbat, Fearow
+Uncommon: Emolga
+Rare: Magneton, Klang
+Very Rare: Rotom, Manectric, Ampharos
+Extremely Rare: Klefki, Heliolisk
+Legendary: Zapdos
+
+Water Temple:
+
+Common: Gyarados, Kingler
+Uncommon: Swanna, Pelipper
+Rare: Lombre, Palpitoad
+Very Rare: Clamperl, Mantine
+Extremely Rare: Empoleon, Swampert, Blastoise
+Legendary: Articuno
+Common(fishing): Gyarados, Tentacruel
+Uncommon(fishing): Pelipper, Gastrodon
+Rare(fishing): Shellder, Horsea, Tympole
+Very Rare(fishing): Staryu, Chinchou
+Extremely Rare(fishing): Dratini
+Legendary(fishing): Manaphy
+Common(surfing): Tentacruel, Poliwhirl
+Uncommon(surfing): Swanna, Pelipper
+Rare(surfing): Tympole, Quagsire
+Very Rare(surfing): Slowpoke, Dragalge
+Extremely Rare(surfing): Phione
+
+Unova Victory Road Cave Top:
+
+Common: Gengar, Arbok, Exploud, Electrode, Golem, Fearow, Magcargo, Parasect, Dugtrio
+Uncommon: Sandslash, Azumarill, Noctowl
+Rare: Magneton, Forretress
+Very Rare: Clefairy,Chansey, Drilbur
+Extremely Rare: Golett, Salamence
